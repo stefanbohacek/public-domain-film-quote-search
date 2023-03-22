@@ -31,7 +31,7 @@ const showSearchResults = (searchForm) => {
                             <div class="d-flex">
                                 <div class="flex-shrink-0">
                                     <a href="${film.info.video_page}" target="_blank">
-                                        <img class="movie-poster" loading="lazy" width="182" height="268" src="/images/thumbnails/${film.info.id}.jpg" alt="">
+                                        <img class="movie-poster" loading="lazy" width="182" height="268" src="/images/thumbnails/${film.info.id}.jpg" alt="Movie poster for ${film.info.title}">
                                     </a>
                                 </div>
                                 <div class="flex-grow-1 ms-3">
