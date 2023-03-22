@@ -1,0 +1,807 @@
+﻿1
+00:01:46,544 --> 00:01:49,878
+<i>I'm Sindbad the sailor
+So hearty and hale</i>
+
+2
+00:01:50,048 --> 00:01:53,040
+<i>I live on an island
+On the back of a whale</i>
+
+3
+00:01:53,218 --> 00:01:54,913
+<i>It's a whale of an island</i>
+
+4
+00:01:54,986 --> 00:01:56,750
+<i>That's not a bad joke</i>
+
+5
+00:01:56,921 --> 00:02:00,482
+<i>Its lord and its master
+Is this handsome bloke</i>
+
+6
+00:02:00,659 --> 00:02:05,990
+<i>Who's the most remarkable
+Extraordinary fellow?</i>
+
+7
+00:02:07,566 --> 00:02:10,829
+<i>Sindbad the sailor!</i>
+
+8
+00:02:11,102 --> 00:02:14,094
+<i>I scare all creation on land or on sea</i>
+
+9
+00:02:14,172 --> 00:02:16,971
+<i>But talk about women
+They all fall for me</i>
+
+10
+00:02:17,042 --> 00:02:19,841
+<i>I take my adventures
+Wherever they're found</i>
+
+11
+00:02:20,011 --> 00:02:23,948
+<i>I don't wanna brag, folks
+But I've been around</i>
+
+12
+00:02:24,116 --> 00:02:29,596
+<i>Who's the most phenomenal
+Extra-special kind of fellow?</i>
+
+13
+00:02:30,856 --> 00:02:34,013
+<i>Sindbad the sailor</i>
+
+14
+00:02:34,693 --> 00:02:37,856
+<i>From the valley of serpents
+These diamonds I took</i>
+
+15
+00:02:38,029 --> 00:02:41,522
+<i>I clean out those serpents
+With one dirty look</i>
+
+16
+00:02:43,101 --> 00:02:44,667
+Serpents.
+
+17
+00:02:50,175 --> 00:02:53,693
+<i>Now look at this monster
+So strong and so huge</i>
+
+18
+00:02:53,879 --> 00:02:58,112
+<i>He'd frighten King Kong
+But he's only my stooge</i>
+
+19
+00:02:58,283 --> 00:03:01,644
+<i>The capture of Boola
+For me was just fun</i>
+
+20
+00:03:01,820 --> 00:03:05,202
+<i>Whoever said two heads
+Were better than one?</i>
+
+21
+00:03:16,768 --> 00:03:21,597
+<i>Who's the most phenomenal
+Extraordinary fellow?</i>
+
+22
+00:03:21,673 --> 00:03:25,515
+You, Simlaut the sailor!
+
+23
+00:03:30,115 --> 00:03:34,213
+How you like that? Stooges.
+
+24
+00:03:37,889 --> 00:03:40,654
+<i>On one of my travels
+I ran into this</i>
+
+25
+00:03:40,926 --> 00:03:44,033
+<i>Now, there was a thrill
+I'd be sorry to miss</i>
+
+26
+00:03:45,430 --> 00:03:48,957
+<i>He spread out his wings
+And the sunlight grew dim</i>
+
+27
+00:03:49,134 --> 00:03:51,034
+<i>He took me in his feet</i>
+
+28
+00:03:51,303 --> 00:03:54,466
+<i>But I ran off with him</i>
+
+29
+00:03:54,639 --> 00:03:59,938
+<i>Who's the most remarkable
+Extraordinary fellow?</i>
+
+30
+00:04:01,413 --> 00:04:04,283
+<i>Sindbad the sailor</i>
+
+31
+00:04:05,083 --> 00:04:09,968
+<i>Who's the most phenomenal
+Extra-special kind of fellow?</i>
+
+32
+00:04:11,390 --> 00:04:14,290
+<i>Sindbad the sailor</i>
+
+33
+00:04:15,160 --> 00:04:19,898
+<i>I'm afraid of nobody under the sun</i>
+
+34
+00:04:20,232 --> 00:04:24,432
+<i>All I say is "boo"
+And my enemies run</i>
+
+35
+00:04:25,103 --> 00:04:29,267
+<i>Who's the most remarkable
+Extraordinary fellow?</i>
+
+36
+00:04:29,541 --> 00:04:32,738
+<i>It's Popeye the sailor man</i>
+
+37
+00:04:33,511 --> 00:04:36,606
+<i>Popeye the sailor man</i>
+
+38
+00:04:36,782 --> 00:04:39,879
+<i>I'm strong to the finish
+'Cause I eats me spinach</i>
+
+39
+00:04:40,052 --> 00:04:42,687
+<i>I'm Popeye the sailor man</i>
+
+40
+00:04:43,522 --> 00:04:46,781
+<i>I'm one tough gazooka
+Which hates all palookas</i>
+
+41
+00:04:46,959 --> 00:04:50,259
+<i>What ain't on the up and square</i>
+
+42
+00:04:50,429 --> 00:04:53,831
+<i>I biffs an' I bops 'em
+An' always out-roughs ‘em</i>
+
+43
+00:04:53,999 --> 00:04:57,264
+<i>But none of 'em gets nowhere</i>
+
+44
+00:04:57,436 --> 00:05:00,565
+<i>If anyone dasses
+To risk me fist</i>
+
+45
+00:05:00,739 --> 00:05:04,334
+<i>It's bop and it's wham, understand?</i>
+
+46
+00:05:04,410 --> 00:05:07,510
+<i>So keep good behavior
+That's your one lifesaver</i>
+
+47
+00:05:07,680 --> 00:05:10,709
+<i>With Popeye the sailor man</i>
+
+48
+00:05:10,883 --> 00:05:13,680
+<i>Oh, I'm Popeye the sailor man</i>
+
+49
+00:05:14,920 --> 00:05:17,890
+<i>Popeye the sailor man</i>
+
+50
+00:05:18,057 --> 00:05:21,391
+<i>I'm strong to the finish
+‘Cause I eats me spinach</i>
+
+51
+00:05:21,560 --> 00:05:24,639
+<i>I'm Popeye the swag whaler man</i>
+
+52
+00:05:25,498 --> 00:05:27,796
+Who fouls the air with a note so sour
+
+53
+00:05:27,967 --> 00:05:30,402
+and dares to challenge Sindbad's...
+
+54
+00:05:32,138 --> 00:05:35,655
+Why, I'll fix him.
+
+55
+00:05:45,552 --> 00:05:47,162
+Wreck that ship.
+
+56
+00:05:51,825 --> 00:05:54,626
+But bring me the woman.
+
+57
+00:05:58,098 --> 00:05:59,598
+Go.
+
+58
+00:06:58,058 --> 00:07:00,993
+Oh! Oh! Wh-what happened?
+
+59
+00:07:04,264 --> 00:07:07,599
+He-he-help! Popeye!
+
+60
+00:07:07,667 --> 00:07:10,434
+Oh, let me go. Let me go.
+Let me go!
+
+61
+00:07:10,504 --> 00:07:11,994
+No, no, no. Don't let me go. Don't.
+
+62
+00:07:12,072 --> 00:07:14,422
+Oh, man the lifeboats.
+
+63
+00:07:17,010 --> 00:07:18,842
+Well, that was a nice ship we had once.
+
+64
+00:07:19,012 --> 00:07:20,872
+Hey, did you see the same thing I saw?
+
+65
+00:07:20,981 --> 00:07:23,582
+I'm gonna take another look at
+that thing. See what that was.
+
+66
+00:07:24,318 --> 00:07:26,918
+That's the biggest buzzard I ever saw.
+Look at that fellow go.
+
+67
+00:07:29,790 --> 00:07:32,322
+- Where am I?
+- Hello there, sweetheart.
+
+68
+00:07:32,492 --> 00:07:35,819
+- Let me see here, sweetie--
+- Hey, keep away from me, you.
+
+69
+00:07:35,996 --> 00:07:38,124
+- Stop that. Let me alone.
+- Come on.
+
+70
+00:07:38,298 --> 00:07:41,791
+Ah, don't do that!
+I'll slap you which way.
+
+71
+00:07:41,969 --> 00:07:43,095
+- Come here.
+- I won't.
+
+72
+00:07:43,270 --> 00:07:47,607
+- Get up sugar, and give us a little smack.
+- I'll give you a smack, all right. There.
+
+73
+00:07:47,874 --> 00:07:50,036
+Hey, we gotta save Olive Oyl.
+
+74
+00:07:50,210 --> 00:07:54,044
+Come on, Wimpy. Hurry up
+before it's too late. Into the brink.
+
+75
+00:08:06,094 --> 00:08:08,563
+End of the line, everybody off.
+
+76
+00:08:09,331 --> 00:08:10,856
+Oh, what's this?
+
+77
+00:08:11,033 --> 00:08:13,058
+"The Isle of Sindbad. Enter not.
+
+78
+00:08:13,235 --> 00:08:16,671
+For whoso-ever passeth in,
+passeth out. Sindbad."
+
+79
+00:08:16,838 --> 00:08:19,877
+Is this so? Somebody probably
+trying to be funny around here.
+
+80
+00:08:20,909 --> 00:08:23,674
+Ooh! Luncheon.
+
+81
+00:08:31,754 --> 00:08:35,019
+Well, here I go within it.
+
+82
+00:08:39,194 --> 00:08:42,129
+I don't like this place at all. Ooh.
+
+83
+00:08:42,664 --> 00:08:45,065
+Sorry I ever came in here.
+
+84
+00:08:45,767 --> 00:08:48,371
+Looks kind of spooky to me around here.
+
+85
+00:08:48,637 --> 00:08:50,230
+What's this?
+
+86
+00:08:52,207 --> 00:08:54,574
+Oh! Oh, yeah?
+
+87
+00:08:56,144 --> 00:08:58,838
+Oh! Trying to scare me like that, huh?
+
+88
+00:09:03,251 --> 00:09:07,101
+Watch them dumb aminals try
+to scare me like that. How about that?
+
+89
+00:09:07,923 --> 00:09:11,418
+- Help! Popeye, save me!
+- Oh!
+
+90
+00:09:11,593 --> 00:09:15,742
+Oh, I'm coming, Olive.
+I just got a little wall here.
+
+91
+00:09:19,635 --> 00:09:22,296
+Do I hear footprints somewhere? Oh!
+
+92
+00:09:26,508 --> 00:09:30,171
+I wanna stop. I wanna stop this dancing.
+
+93
+00:09:30,312 --> 00:09:31,438
+Stop!
+
+94
+00:09:31,614 --> 00:09:33,081
+Huh?
+
+95
+00:09:33,549 --> 00:09:35,444
+- Oh, Popeye!
+- Come back here.
+
+96
+00:09:37,186 --> 00:09:39,118
+- Who invited you?
+- I did.
+
+97
+00:09:39,188 --> 00:09:41,213
+What are you gonna do about it, huh?
+
+98
+00:09:44,593 --> 00:09:46,745
+How did you get in here?
+
+99
+00:09:52,368 --> 00:09:54,427
+Fowled again. Hmm.
+
+100
+00:09:54,603 --> 00:09:57,564
+I must resort to my last hamburger.
+
+101
+00:09:59,275 --> 00:10:00,265
+Oh! Huh?
+
+102
+00:10:01,510 --> 00:10:03,410
+Hey, I wants me goil.
+
+103
+00:10:03,579 --> 00:10:04,944
+- Oh, yeah?
+- Yeah.
+
+104
+00:10:05,114 --> 00:10:06,513
+Who are you?
+
+105
+00:10:06,682 --> 00:10:09,403
+I'm Popeye the sailor man.
+
+106
+00:10:10,219 --> 00:10:11,380
+Who are you?
+
+107
+00:10:11,554 --> 00:10:12,851
+- Who am I?
+- You heard what I said.
+
+108
+00:10:12,922 --> 00:10:14,421
+- Who am I?
+- That's what I said.
+
+109
+00:10:14,490 --> 00:10:16,982
+Why-- Argh!
+
+110
+00:10:17,259 --> 00:10:22,288
+<i>Who's the most remarkable
+Extraordinary fellow?</i>
+
+111
+00:10:23,032 --> 00:10:25,062
+You.
+
+112
+00:10:27,870 --> 00:10:32,239
+<i>Who's the most phenomenal
+Extra-special kind of fellow?</i>
+
+113
+00:10:32,775 --> 00:10:34,641
+You.
+
+114
+00:10:34,710 --> 00:10:36,369
+Is the circus coming here?
+
+115
+00:10:37,680 --> 00:10:42,516
+<i>I'm afraid of nobody under the sun</i>
+
+116
+00:10:42,685 --> 00:10:47,523
+<i>All I say is "boo"
+And my enemies run</i>
+
+117
+00:10:47,590 --> 00:10:52,152
+<i>Who's the most remarkable
+Extraordinary fellow?</i>
+
+118
+00:10:52,528 --> 00:10:53,825
+Who?
+
+119
+00:10:53,996 --> 00:10:55,796
+- Popeye the sailor.
+- What?
+
+120
+00:10:55,865 --> 00:10:57,729
+You better fix your shirt there,
+young fellow.
+
+121
+00:10:58,868 --> 00:11:01,530
+- Hey! Hey, let me down.
+- Well, let's see how great you are.
+
+122
+00:11:01,604 --> 00:11:03,370
+Hey, let me down, you big-- Ow!
+
+123
+00:11:04,540 --> 00:11:06,338
+Whoa! Oh!
+
+124
+00:11:06,509 --> 00:11:08,170
+Oh, what's this?
+
+125
+00:11:08,344 --> 00:11:12,338
+Hey, let me down,
+you big overgrown canary.
+
+126
+00:11:13,182 --> 00:11:15,583
+What are you doing?
+Taking me for a ride or something?
+
+127
+00:11:15,751 --> 00:11:17,380
+Hey, let me go, I says.
+
+128
+00:11:17,553 --> 00:11:20,079
+I'm not going your way.
+Come on, let me go. Hey!
+
+129
+00:11:20,924 --> 00:11:24,344
+Oh, Popeye! Popeye! My Popeye.
+
+130
+00:11:26,062 --> 00:11:27,894
+Come back to me!
+
+131
+00:11:34,337 --> 00:11:36,271
+There you are, with gravy.
+
+132
+00:11:42,412 --> 00:11:44,573
+The old goose is cooked, this guy--
+
+133
+00:11:44,647 --> 00:11:46,843
+- Hey! Ow!
+- Well, I--
+
+134
+00:11:47,016 --> 00:11:50,350
+- Don't you think we better talk this over?
+- Try and get out of this one.
+
+135
+00:11:50,519 --> 00:11:52,385
+Oh my head, my head.
+
+136
+00:11:55,191 --> 00:11:56,958
+Whoa!
+
+137
+00:11:59,528 --> 00:12:03,160
+<i>Come, for to sleep
+My baby kin</i>
+
+138
+00:12:03,232 --> 00:12:06,600
+<i>My peaches and cream
+My baby kin</i>
+
+139
+00:12:06,769 --> 00:12:10,000
+<i>If you don't sleep
+My baby kin</i>
+
+140
+00:12:10,173 --> 00:12:13,967
+<i>I close for you
+Your two eyes like this</i>
+
+141
+00:12:22,251 --> 00:12:23,380
+Oh, my.
+
+142
+00:12:23,553 --> 00:12:26,554
+Oh, two against one, huh?
+
+143
+00:12:26,822 --> 00:12:28,483
+How do you like that?
+
+144
+00:12:28,557 --> 00:12:31,149
+What for you let that
+Popeye smack our face?
+
+145
+00:12:31,227 --> 00:12:32,854
+How do like about that?
+
+146
+00:12:32,929 --> 00:12:34,846
+You hold that Popeye in this hand.
+
+147
+00:12:34,964 --> 00:12:37,603
+By carbonate,
+if I had that mug in this hand...
+
+148
+00:12:37,766 --> 00:12:40,667
+...I make from him special dish
+of chopped fricassee.
+
+149
+00:12:40,837 --> 00:12:43,304
+I don't like chop-you-apart fricassee.
+
+150
+00:12:43,372 --> 00:12:45,966
+I make for you to like it.
+
+151
+00:12:47,844 --> 00:12:50,668
+Oh! Why, you two-headed--
+
+152
+00:12:54,617 --> 00:12:56,383
+How do you like that?
+
+153
+00:12:58,554 --> 00:13:00,682
+Ow! Ugh!
+
+154
+00:13:02,225 --> 00:13:03,854
+Ugh!
+
+155
+00:13:08,898 --> 00:13:11,492
+Come on. You're gonna take
+a double-header this time.
+
+156
+00:13:11,667 --> 00:13:12,896
+Wham!
+
+157
+00:13:17,373 --> 00:13:21,034
+Well, I guess I fixed those two fellows.
+I would hate-- Oh, yeah?
+
+158
+00:13:22,178 --> 00:13:25,077
+Who's gonna make who
+like chicken frica-fricassee, huh?
+
+159
+00:13:31,888 --> 00:13:35,374
+There's only room for one great sailor
+in this world.
+
+160
+00:13:35,758 --> 00:13:38,386
+And that's me.
+
+161
+00:13:38,761 --> 00:13:40,407
+Oh, says you.
+
+162
+00:13:53,609 --> 00:13:55,407
+We're gonna come to terms right now.
+
+163
+00:14:10,893 --> 00:14:12,486
+Hey, what are you doing?
+
+164
+00:14:12,662 --> 00:14:15,933
+Hey, you can't push me just so far.
+That's all I gotta say--
+
+165
+00:14:28,077 --> 00:14:31,342
+Beat for beet, kiddo.
+That's what I-- Take that!
+
+166
+00:14:32,682 --> 00:14:34,650
+Whoa! Oh!
+
+167
+00:14:37,186 --> 00:14:38,918
+Peekaboo!
+
+168
+00:14:43,859 --> 00:14:45,389
+I sock you!
+
+169
+00:14:46,763 --> 00:14:48,462
+Come out of there, you!
+
+170
+00:14:54,370 --> 00:14:55,769
+How do you like that?
+
+171
+00:14:57,506 --> 00:14:58,905
+Do you give up?
+
+172
+00:15:00,676 --> 00:15:02,943
+What are you, a fresh guy
+or something? I'll show you.
+
+173
+00:15:08,717 --> 00:15:10,583
+Uh-uh-uh! Don't leave me now.
+
+174
+00:15:39,648 --> 00:15:41,038
+Take that!
+
+175
+00:15:45,721 --> 00:15:47,319
+How do you like that?
+
+176
+00:15:50,593 --> 00:15:52,427
+Come on, get up and fight.
+
+177
+00:15:52,495 --> 00:15:55,493
+Give it to him, Popeye.
+Give him the twister punch!
+
+178
+00:15:55,931 --> 00:15:57,993
+Twister punch coming up.
+
+179
+00:15:58,801 --> 00:16:00,399
+Take that!
+
+180
+00:16:06,935 --> 00:16:09,057
+You're going places, you golem!
+
+181
+00:16:11,580 --> 00:16:13,008
+Who's the most remarkable
+
+182
+00:16:13,135 --> 00:16:15,026
+Extraordinary fellow?
+
+183
+00:16:15,351 --> 00:16:19,440
+You, Popeye the sailor!
+

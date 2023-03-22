@@ -1,0 +1,4482 @@
+﻿1
+00:02:03,300 --> 00:02:06,070
+- Can I help you?
+- I'd like to see the man in charge.
+
+2
+00:02:06,660 --> 00:02:08,000
+In here.
+
+3
+00:02:16,020 --> 00:02:18,970
+- I want to report a murder.
+- Sit down.
+
+4
+00:02:23,510 --> 00:02:27,440
+- Where was this murder committed?
+- San Francisco, last night.
+
+5
+00:02:28,100 --> 00:02:30,060
+Who was murdered?
+
+6
+00:02:33,480 --> 00:02:34,650
+I was.
+
+7
+00:02:42,180 --> 00:02:46,020
+Do you want to hear me out or don't you, Captain?
+I don't have very much time.
+
+8
+00:02:49,330 --> 00:02:51,370
+Your name Bigelow, Frank Bigelow?
+
+9
+00:02:53,190 --> 00:02:54,540
+That's right.
+
+10
+00:02:55,750 --> 00:02:59,840
+Answer this San Francisco APB,
+send it direct to inspector Banner at Homicide,
+
+11
+00:03:00,090 --> 00:03:02,580
+tell him we've found Frank Bigelow.
+
+12
+00:03:04,610 --> 00:03:06,030
+Go ahead, Mr. Bigelow.
+
+13
+00:03:08,320 --> 00:03:10,570
+This involves some other people, Captain,
+
+14
+00:03:10,850 --> 00:03:14,050
+- a number of other people.
+- You tell it any way you like.
+
+15
+00:03:17,570 --> 00:03:20,490
+I live in a little town called Banning,
+out on the desert,
+
+16
+00:03:20,690 --> 00:03:23,030
+it's on the way to Palm Springs.
+
+17
+00:03:24,780 --> 00:03:27,200
+I have a small business there...
+
+18
+00:03:29,660 --> 00:03:30,870
+Paula!
+
+19
+00:03:33,040 --> 00:03:36,460
+- Yes, Mr. Bigelow?
+- Get me a copy of Miss Hollis' '48 tax return, will you?
+
+20
+00:03:36,710 --> 00:03:39,170
+Oh, you better get the '47 too.
+
+21
+00:03:39,250 --> 00:03:42,050
+- Yes, Mr. Bigelow.
+- I don't think we took any depreciation
+
+22
+00:03:42,970 --> 00:03:45,550
+on that new equipment last year.
+- No, we didn't.
+
+23
+00:03:45,640 --> 00:03:47,720
+I remember you said we could include it all this year.
+
+24
+00:03:47,810 --> 00:03:49,970
+- Sure we can.
+- Hey Frank. - Yeah, Will?
+
+25
+00:03:50,310 --> 00:03:53,890
+Peterson says he wants a financial
+statement before he can give me my loan.
+
+26
+00:03:53,980 --> 00:03:55,150
+- Hello, Kitty.
+- Hi, Will.
+
+27
+00:03:55,230 --> 00:03:59,030
+Well, I'm leaving for San Francisco today, but I'll be back
+in about a week and I'll take care of it for you then.
+
+28
+00:03:59,320 --> 00:04:01,780
+- Sure is a scorcher, isn't it.
+- Well, I've seen 'em worse.
+
+29
+00:04:02,070 --> 00:04:04,320
+- Well, have a nice time Frank.
+- Yeah, thanks Will.
+
+30
+00:04:04,410 --> 00:04:07,740
+Paula, why don't you come down to the place
+and let me give you another permanent?
+
+31
+00:04:07,830 --> 00:04:10,660
+Makes your hair so much easier
+to manage in all this heat.
+
+32
+00:04:10,740 --> 00:04:12,750
+I can't afford it right now,
+maybe next month.
+
+33
+00:04:12,830 --> 00:04:16,000
+Yeah, here it is. No, we didn't take it.
+Well, we can do it this year.
+
+34
+00:04:16,250 --> 00:04:19,040
+You work it out any way
+you think best.
+
+35
+00:04:19,130 --> 00:04:22,260
+- Have a nice trip, Frank.
+- Sure Kitty, see you when I get back.
+
+36
+00:04:22,340 --> 00:04:23,880
+Bon voyage!
+
+37
+00:04:25,180 --> 00:04:27,720
+Why don't you come down anyway, Paula?
+
+38
+00:04:27,800 --> 00:04:30,510
+We'll, uh, work out a deal
+on that permanent.
+
+39
+00:04:30,600 --> 00:04:32,770
+Thanks, maybe I will.
+
+40
+00:04:35,520 --> 00:04:38,150
+Hello?
+Oh hello Mr. Hawkins, just a moment.
+
+41
+00:04:39,020 --> 00:04:41,110
+You want him to send your ticket over?
+
+42
+00:04:41,190 --> 00:04:45,110
+- No, I'll pick it up myself.
+- No, Mr. Bigelow will get it at the station.
+
+43
+00:04:45,200 --> 00:04:46,410
+Bye.
+
+44
+00:04:51,410 --> 00:04:53,500
+I want to go with you, Frank.
+
+45
+00:04:53,620 --> 00:04:55,390
+Now Paula, I'm just going on
+a little vacation, you know that.
+
+46
+00:04:55,570 --> 00:04:58,320
+- You want to go without me don't you?
+- Be gone just a week.
+
+47
+00:04:58,500 --> 00:05:00,700
+And I suppose you just made up your mind to take
+
+48
+00:05:00,710 --> 00:05:04,370
+- this vacation at nine o'clock this morning?
+- No, Paula, I meant to tell you
+
+49
+00:05:04,550 --> 00:05:06,720
+- about it a few days ago, I guess I forgot.
+- Oh, you forgot!
+
+50
+00:05:07,800 --> 00:05:10,550
+- Paula, don't be like that.
+- Don't be like what?
+
+51
+00:05:10,930 --> 00:05:12,970
+You just drop a little anouncement
+that you're going away
+
+52
+00:05:13,060 --> 00:05:14,060
+not tomorrow, or next week,
+
+53
+00:05:14,150 --> 00:05:16,690
+or next month, but today.
+No explanations, nothing.
+
+54
+00:05:16,770 --> 00:05:19,980
+And I'm supposed to swallow the
+excuse that you need a little vacation.
+
+55
+00:05:21,070 --> 00:05:23,230
+I just want to get away from
+town for a few days, that's all.
+
+56
+00:05:23,520 --> 00:05:25,630
+Get away from this town,
+or get away from me?
+
+57
+00:05:25,660 --> 00:05:30,770
+- Oh, Paula, please try to understand.
+- How can you ask me to understand anything like this?
+
+58
+00:05:30,860 --> 00:05:33,050
+No, I'm sorry, but I don't understand.
+
+59
+00:05:35,510 --> 00:05:39,250
+Go to San Francisco, but don't expect me
+to be waiting for you when you get back!
+
+60
+00:05:56,850 --> 00:05:58,560
+Paula. Please, Paula.
+
+61
+00:05:59,900 --> 00:06:02,230
+Come on, turn around. Look at me.
+
+62
+00:06:07,610 --> 00:06:08,950
+Come here.
+
+63
+00:06:10,240 --> 00:06:12,370
+Why do you do this to me, Frank?
+
+64
+00:06:12,450 --> 00:06:15,870
+Why can't you be honest with me?
+As honest as I am with you?
+
+65
+00:06:16,500 --> 00:06:19,420
+- Do you have to go?
+- I have to go, Paula. I know what I'm doing.
+
+66
+00:06:19,420 --> 00:06:22,710
+All right, go! Go anywhere you like.
+You can go to blazes for all I care!
+
+67
+00:06:22,790 --> 00:06:24,040
+Paula!
+
+68
+00:06:24,960 --> 00:06:26,170
+Paula.
+
+69
+00:06:28,340 --> 00:06:29,840
+Yes, I know, I'm...
+
+70
+00:06:30,510 --> 00:06:32,930
+- I'm being foolish.
+- Come here.
+
+71
+00:06:43,560 --> 00:06:46,730
+Come on. Fix you face. We'll go down to
+Eddie's and have a drink.
+
+72
+00:06:46,820 --> 00:06:48,530
+Alright, why not.
+
+73
+00:06:54,160 --> 00:06:56,240
+- Hiya, Boss
+- Hi, Eddie.
+
+74
+00:06:56,950 --> 00:06:59,960
+- Give us a couple of cold beers, will you?
+- Coming up.
+
+75
+00:07:04,920 --> 00:07:07,760
+Oh, what a relief! This air
+conditioning feels good.
+
+76
+00:07:07,840 --> 00:07:10,720
+I sure wish we had it in the office,
+it would make working a pleasure.
+
+77
+00:07:10,800 --> 00:07:13,340
+If it stays this hot, don't bother
+going in for the rest of the week.
+
+78
+00:07:13,430 --> 00:07:16,100
+- I won on two races today.
+- How many did you lose?
+
+79
+00:07:16,180 --> 00:07:18,180
+And you would have to ask that!
+
+80
+00:07:18,390 --> 00:07:20,890
+- Kind of early for you two, ain't it?
+- It's too hot to work!
+
+81
+00:07:20,980 --> 00:07:22,770
+That's what I like to hear!
+
+82
+00:07:41,080 --> 00:07:42,370
+Frank...
+
+83
+00:07:42,960 --> 00:07:45,250
+You'll take me with you, won't you?
+
+84
+00:07:47,380 --> 00:07:48,920
+You will, won't you?
+
+85
+00:07:50,460 --> 00:07:52,300
+Or am I crowding you?
+
+86
+00:07:53,050 --> 00:07:55,220
+What do you mean, crowding me?
+
+87
+00:07:56,680 --> 00:07:59,390
+Maybe you do need this
+week away alone.
+
+88
+00:07:59,930 --> 00:08:02,060
+Maybe we both do.
+
+89
+00:08:02,140 --> 00:08:04,140
+I know what's going on
+inside of you, Frank.
+
+90
+00:08:04,270 --> 00:08:06,940
+You're just like any other man,
+only a little more so.
+
+91
+00:08:07,020 --> 00:08:11,050
+You have a feeling of being trapped, hemmed in,
+and you don't know whether or not you like it.
+
+92
+00:08:11,150 --> 00:08:13,900
+Look, Paula,
+I'm going to be honest with you.
+
+93
+00:08:14,410 --> 00:08:16,530
+I care too much for you
+not to be honest with you.
+
+94
+00:08:16,620 --> 00:08:19,370
+I'm as much concerned for your
+happiness as I am for my own.
+
+95
+00:08:19,450 --> 00:08:22,000
+I know you've had one bad experience,
+Frank, I know all about it.
+
+96
+00:08:22,080 --> 00:08:24,330
+But you don't know what it can
+do to two people, Paula.
+
+97
+00:08:24,420 --> 00:08:27,290
+And the woman always gets hurt
+more than the man.
+
+98
+00:08:27,840 --> 00:08:30,130
+I don't want you to get hurt, darling.
+
+99
+00:08:31,260 --> 00:08:33,880
+More than anything in the world,
+I don't want you to get hurt.
+
+100
+00:08:38,550 --> 00:08:42,020
+- Want to hear some music?
+- Alright, Frank.
+
+101
+00:08:45,140 --> 00:08:47,900
+- Got a couple of nickels, Eddie?
+- Yep.
+
+102
+00:08:48,440 --> 00:08:51,690
+- This won't bother you, will it?
+- No, next result doesn't come in for half an hour.
+
+103
+00:09:03,120 --> 00:09:06,370
+I thought that by now
+we'd be married.
+
+104
+00:09:07,580 --> 00:09:09,500
+No, I'm not going to crowd you
+any more, Frank.
+
+105
+00:09:10,000 --> 00:09:12,500
+Go to San Francisco. I don't like it,
+
+106
+00:09:12,800 --> 00:09:15,510
+but I'm convinced that you must go.
+
+107
+00:09:15,720 --> 00:09:18,010
+I want you to be very sure, Frank.
+
+108
+00:09:18,430 --> 00:09:20,470
+If it's right, and I believe it is,
+
+109
+00:09:20,550 --> 00:09:23,270
+we'll have something really
+wonderful together.
+
+110
+00:09:24,220 --> 00:09:27,810
+If it isn't, we should both
+know it as soon as possible.
+
+111
+00:09:29,890 --> 00:09:32,690
+So you see, even if I could stop you,
+I wouldn't do it now.
+
+112
+00:10:00,260 --> 00:10:02,850
+- Yes Sir.
+- My name's Bigelow, I have a reservation.
+
+113
+00:10:02,930 --> 00:10:04,310
+Yes Sir.
+
+114
+00:10:08,410 --> 00:10:11,810
+- Here we are, Sir.
+- My name's Bigelow, I have a reservation.
+
+115
+00:10:11,820 --> 00:10:14,200
+I have it sir. It's a very nice room on
+the sixth floor,
+
+116
+00:10:14,200 --> 00:10:16,320
+facing the Bay. Boy!
+
+117
+00:10:16,550 --> 00:10:18,550
+This might help you enjoy
+your stay, Mr. Bigelow.
+
+118
+00:10:18,630 --> 00:10:21,560
+It's a little booklet on how
+to have... "fun" in San Francisco.
+
+119
+00:10:21,610 --> 00:10:23,560
+- Oh, thank you!.
+- You're very welcome Sir.
+
+120
+00:10:27,300 --> 00:10:31,400
+- Say is it always like this around here?
+- No, this is market week, the last day.
+
+121
+00:10:31,670 --> 00:10:32,540
+Boy!
+
+122
+00:10:33,170 --> 00:10:35,160
+Always around until you need them.
+
+123
+00:10:40,430 --> 00:10:41,950
+Here's a message for you,
+Mr. Bigelow.
+
+124
+00:10:42,070 --> 00:10:44,620
+Long distance call came in about
+an hour ago, from Banning,
+
+125
+00:10:44,640 --> 00:10:46,770
+- from a Paula Gibson.
+- Oh, thank you. - You're very welcome.
+
+126
+00:10:47,220 --> 00:10:50,140
+- Show Mr. Bigelow to 618.
+- Right this way, Sir.
+
+127
+00:11:06,830 --> 00:11:08,910
+Right this way, Mr. Bigelow.
+
+128
+00:11:25,250 --> 00:11:27,400
+- Is there anything else, Mr. Bigelow?
+- Oh, yes.
+
+129
+00:11:27,440 --> 00:11:30,350
+You can get me a dry Manhattan,
+and a packet of razor blades.
+
+130
+00:11:30,350 --> 00:11:31,710
+- Yes, Sir.
+- Thank you.
+
+131
+00:11:31,960 --> 00:11:33,970
+Oh, and you can leave that door open.
+
+132
+00:11:36,680 --> 00:11:39,830
+Hello operator, I want to speak to
+Miss Paula Gibson
+
+133
+00:11:39,840 --> 00:11:43,760
+in Banning, California.
+Yeah, that's right... No, I'll wait.
+
+134
+00:11:48,110 --> 00:11:49,780
+- Hello?
+- Hello, Paula.
+
+135
+00:11:50,170 --> 00:11:53,390
+- Oh, hello Frank. How is the trip?
+- Fine, just fine.
+
+136
+00:11:53,440 --> 00:11:56,810
+- Having a miserable time, I hope.
+- Well I don't know,
+
+137
+00:11:57,060 --> 00:11:58,100
+I just got in.
+
+138
+00:12:01,210 --> 00:12:05,100
+- What was that?
+- Ah... Market week. The place is crawling with travelling salesmen.
+
+139
+00:12:05,260 --> 00:12:07,300
+You know, Charlie Anderson found out
+that you went away
+
+140
+00:12:07,310 --> 00:12:10,520
+- and he asked me to go out with him.
+- Oh really? How did he make out?
+
+141
+00:12:11,030 --> 00:12:13,980
+- I'm considering it.
+- Is that what you called to tell me?
+
+142
+00:12:14,450 --> 00:12:17,630
+I'll have you know that this call
+is strictly business, Mr. Bigelow.
+
+143
+00:12:17,830 --> 00:12:20,890
+Did a Mr. Phillips phone you,
+a Eugene Phillips, of Los Angeles?
+
+144
+00:12:21,150 --> 00:12:23,780
+- No.
+- He will, he phoned the office three times today.
+
+145
+00:12:23,900 --> 00:12:25,950
+Said that he wanted to get in touch
+with you immediately.
+
+146
+00:12:26,030 --> 00:12:28,910
+He said it's most urgent and
+imperative that he reach you at once.
+
+147
+00:12:28,990 --> 00:12:30,990
+- What did he want?
+- I don't know.
+
+148
+00:12:31,240 --> 00:12:34,170
+But he sounded deep dark and mysterious,
+and quite agitated about something.
+
+149
+00:12:35,250 --> 00:12:38,000
+Phillips, Phillips. Have we... have we
+ever done any business with him?
+
+150
+00:12:38,080 --> 00:12:40,420
+Not unless you've been keeping
+it a secret from me.
+
+151
+00:12:40,500 --> 00:12:41,920
+I looked through all the accounts.
+
+152
+00:12:45,590 --> 00:12:49,050
+Why did you tell him he could reach me here?
+You know I'm supposed to be on vacation.
+
+153
+00:12:49,140 --> 00:12:52,060
+So you told me, and so I told
+him, dear heart.
+
+154
+00:12:52,280 --> 00:12:55,840
+But the gentleman didn't seem to respect
+your temperamental moods the way I do.
+
+155
+00:12:56,100 --> 00:12:59,750
+He was very insistent that he speak to
+you "before it's too late", as he put it.
+
+156
+00:12:59,840 --> 00:13:03,230
+Well tell him you tried to get in touch with me,
+and I changed my plans and you can't reach me.
+
+157
+00:13:03,740 --> 00:13:07,520
+He won't talk to me, I told him
+I was your confidential secretary,
+
+158
+00:13:07,520 --> 00:13:09,800
+but I guess I don't sound
+confidential enough.
+
+159
+00:13:10,010 --> 00:13:12,030
+So I told him that he could reach
+you there this evening.
+
+160
+00:13:12,310 --> 00:13:15,540
+Well call him back. If it's as important
+as he says it is, he'll talk to you..
+
+161
+00:13:15,720 --> 00:13:17,760
+otherwise he'll just have to wait
+until I get home.
+
+162
+00:13:17,870 --> 00:13:20,500
+My, aren't we adamant this evening!
+
+163
+00:13:20,890 --> 00:13:22,910
+All right, shall do.
+
+164
+00:13:25,220 --> 00:13:27,180
+- And Frank..
+- Yeah?
+
+165
+00:13:28,040 --> 00:13:31,720
+I.. I don't quite know how to say this...
+
+166
+00:13:32,140 --> 00:13:33,340
+Say what?
+
+167
+00:13:34,400 --> 00:13:38,770
+But what I want to say is that there's nothing you can do
+that you ever have to feel guilty about.
+
+168
+00:13:41,700 --> 00:13:45,160
+Oh... Sure.
+
+169
+00:13:46,670 --> 00:13:47,410
+Thanks, Paula.
+
+170
+00:13:47,430 --> 00:13:50,120
+I'll... I'll call you tomorrow.
+
+171
+00:13:51,660 --> 00:13:53,080
+Right.
+
+172
+00:14:19,270 --> 00:14:21,100
+Oh... Just put it there, please.
+
+173
+00:14:23,770 --> 00:14:26,110
+- You can keep the change.
+- Thanks very much.
+
+174
+00:14:26,190 --> 00:14:29,200
+- Say, how long has this been going on?
+- Oh, it's been a madhouse all week.
+
+175
+00:14:29,280 --> 00:14:32,410
+But they check out tomorrow.
+I thought you were with them.
+
+176
+00:14:32,620 --> 00:14:34,620
+No, I'm just here on a vacation.
+
+177
+00:14:34,700 --> 00:14:38,210
+Why does everybody come to San Francisco
+and tear loose?
+
+178
+00:14:40,120 --> 00:14:41,670
+Excuse me.
+
+179
+00:14:42,290 --> 00:14:45,590
+Say, I'm awfully sorry to bother you,
+but would you mind if I use your telephone?
+
+180
+00:14:45,670 --> 00:14:47,800
+- No. No, go right ahead.
+- I'm just across the hall here.
+
+181
+00:14:47,880 --> 00:14:51,300
+One of the boys is using my phone,
+and he's been on it for half an hour!
+
+182
+00:14:51,930 --> 00:14:55,100
+I just want to call downstairs.
+- Yeah. - Thank you.
+
+183
+00:14:56,140 --> 00:14:58,180
+Room service, please.
+
+184
+00:14:58,270 --> 00:15:00,390
+Yeah, things really picked up
+the last few days, didn't they.
+
+185
+00:15:00,480 --> 00:15:02,560
+- You done much business?
+- I'm not here on business.
+
+186
+00:15:02,650 --> 00:15:05,940
+Hello, room service?
+It's Mr.Haskell, in 617.
+
+187
+00:15:06,020 --> 00:15:08,740
+Would you send up three more
+bottles of Bourbon
+
+188
+00:15:08,820 --> 00:15:10,650
+and two Scotch.
+
+189
+00:15:11,660 --> 00:15:13,660
+Yes, oh, and some more ice too.
+
+190
+00:15:13,820 --> 00:15:16,750
+Thank you. You here all alone?
+
+191
+00:15:16,990 --> 00:15:20,330
+- Yes, I just got into town.
+- Well, why don't you join us for a drink?
+
+192
+00:15:20,410 --> 00:15:23,830
+- Well, I don't want to barge in on your party.
+- Oh, nonsense. It's not a party.
+
+193
+00:15:23,920 --> 00:15:26,150
+It's just a few of the boys entertaining
+some buyers. You know,
+
+194
+00:15:26,160 --> 00:15:29,460
+the usual thing, a few drinks,
+and some laughs!
+
+195
+00:15:29,550 --> 00:15:32,050
+It's no party. Come on! - Well...
+- Come on. Come on. - All right.
+
+196
+00:15:33,340 --> 00:15:36,350
+I know what it's like to be
+all alone in a strange city.
+
+197
+00:15:36,430 --> 00:15:38,430
+- I'm Sam Haskell.
+- I'm Frank...
+
+198
+00:15:38,520 --> 00:15:40,060
+Frank Bigelow.
+
+199
+00:15:40,180 --> 00:15:42,190
+You'd think some of these guys have
+never been away from home before!
+
+200
+00:15:42,690 --> 00:15:43,810
+Yeah!
+
+201
+00:15:45,710 --> 00:15:49,240
+Hey, quiet down a bit,
+will you quiet down a second.
+
+202
+00:15:49,420 --> 00:15:52,020
+- I want you to meet Frank Bigelow.
+- Hello!
+
+203
+00:15:52,050 --> 00:15:55,950
+- This is Jane Carlyle. - Hello. - Bill Welch.
+- How are ya, Mr. Welch? - Glad to know you, Bigelow.
+
+204
+00:15:55,960 --> 00:15:57,510
+Jane is the prettiest buyer in San Francisco.
+
+205
+00:15:57,800 --> 00:16:01,250
+- Hey, I resent that.
+- You don't think I believe him, Elaine?
+
+206
+00:16:01,260 --> 00:16:03,180
+Why, he's spread that from coast to coast.
+
+207
+00:16:03,190 --> 00:16:06,280
+- It's good for my morale, anyway.
+- I'm George Cantwell,
+
+208
+00:16:06,290 --> 00:16:08,860
+- glad to know you, Mr...
+- Bigelow.
+
+209
+00:16:08,980 --> 00:16:10,860
+- Done much business?
+- He's not here on business.
+
+210
+00:16:10,870 --> 00:16:14,390
+- Oh? Well!
+- Why don't you get the man a drink...
+
+211
+00:16:14,400 --> 00:16:16,400
+- ...before he dies of thirst?
+- How about a little Bourbon?
+
+212
+00:16:16,420 --> 00:16:18,220
+- Oh, that's fine.
+- Bourbon it is.
+
+213
+00:16:20,220 --> 00:16:23,190
+Of course Mr. Wallace.
+In fact, yes, Mr. Wallace.
+
+214
+00:16:24,440 --> 00:16:27,310
+But Mr. Wallace, I'll need at least a week
+in Cleveland to visit all my accounts.
+
+215
+00:16:27,400 --> 00:16:29,820
+I can't think about being in
+Philadelphia until the 17th.
+
+216
+00:16:29,900 --> 00:16:32,320
+Eddie, will you get off the phone?
+I want you to meet Frank Bigelow.
+
+217
+00:16:32,400 --> 00:16:34,820
+- How are you?
+- That's his boss. He's been trying for an
+
+218
+00:16:34,830 --> 00:16:38,160
+- hour to get his expense account boosted.
+- Yes, the way this guy holds onto a dollar
+
+219
+00:16:38,240 --> 00:16:39,610
+you'd think they weren't printing them anymore.
+
+220
+00:16:39,610 --> 00:16:42,680
+Yes, Mr. Wallace! I'm leaving here
+the first thing in the morning.
+
+221
+00:16:42,960 --> 00:16:43,800
+Yes, Sir.
+
+222
+00:16:45,330 --> 00:16:47,710
+Oh, keep your hips loose, Harry, like this.
+
+223
+00:16:49,040 --> 00:16:50,380
+Oh, yes!
+
+224
+00:16:50,950 --> 00:16:52,120
+How's he doing?
+
+225
+00:16:52,200 --> 00:16:55,010
+Oh, there's nothing wrong with Harry that
+two years in a dance school wouldn't cure.
+
+226
+00:16:55,470 --> 00:16:57,050
+I was doing all right.
+
+227
+00:16:57,360 --> 00:16:58,760
+This is Sue and Harry Brandon.
+
+228
+00:16:58,850 --> 00:17:00,720
+- Hello. - Hello, good to meet you.
+- How are you.
+
+229
+00:17:01,120 --> 00:17:04,850
+Where'd you find her, Sam?
+On a dance marathon? - Bourbon!
+
+230
+00:17:05,480 --> 00:17:09,010
+- Say I bet you could do the Rumba?
+- Well, a little, but I'm kinda rusty.
+
+231
+00:17:09,090 --> 00:17:11,530
+Anything would be an improvement
+after Harry!
+
+232
+00:17:11,810 --> 00:17:14,030
+- Well how do you like that?
+- Well here goes!
+
+233
+00:17:18,030 --> 00:17:19,620
+Hey, you're good.
+
+234
+00:17:21,540 --> 00:17:24,250
+My wife, she's a good dancer,
+isn't she Bigelow?
+
+235
+00:17:24,330 --> 00:17:25,410
+Oh..., yeah!
+
+236
+00:17:28,330 --> 00:17:31,560
+Fellas, I thought you were going to show us
+a good time tonight, is this doing the town?
+
+237
+00:17:31,800 --> 00:17:35,580
+That's right, we practically bankrupt our
+stores to buy everything you've got...
+
+238
+00:17:35,760 --> 00:17:37,600
+...then you keep us in this hotel room!
+
+239
+00:17:37,640 --> 00:17:40,040
+I agree.
+This is my last night to howl
+
+240
+00:17:40,040 --> 00:17:43,150
+before I go back to being a dutiful housewife.
+
+241
+00:17:43,920 --> 00:17:45,770
+Well, it looks like we're stuck, boys.
+
+242
+00:17:45,780 --> 00:17:49,350
+This is where we blow all our
+commission in one night.
+
+243
+00:17:49,360 --> 00:17:51,300
+- And you're coming with us, Bigelow.
+- No, thanks...
+
+244
+00:17:51,300 --> 00:17:53,320
+you run along.
+I've got to get unpacked and have dinner.
+
+245
+00:17:53,360 --> 00:17:55,660
+oh, no, you're not going to get
+away from me.
+
+246
+00:17:55,810 --> 00:17:59,630
+Now that I've found a man who can dance,
+I'm going to hang on to him!
+
+247
+00:18:59,750 --> 00:19:03,960
+- Man, am I hip!
+- You're from nowhere, nowhere!
+
+248
+00:19:20,580 --> 00:19:24,620
+Blow it! Blow up a storm, Fisherman!
+
+249
+00:19:39,970 --> 00:19:43,570
+Stay with it!
+Go, go on, get it, Fisherman!
+
+250
+00:20:18,500 --> 00:20:21,630
+- Have a little bit of my drink, Frank.
+- No, thank you.
+
+251
+00:20:22,970 --> 00:20:25,090
+- Excuse me a moment.
+- Where are you going?
+
+252
+00:20:26,470 --> 00:20:28,310
+Sue...I think you've had enough.
+
+253
+00:20:39,480 --> 00:20:41,900
+- What'll it be?
+- Bourbon and water, no ice.
+
+254
+00:20:41,990 --> 00:20:43,780
+Nice quiet place you've got here!
+
+255
+00:20:43,860 --> 00:20:47,200
+Wait about an hour, that's when they
+really go out of their minds.
+
+256
+00:20:47,280 --> 00:20:48,080
+Who's the blonde?
+
+257
+00:20:51,290 --> 00:20:54,660
+Oh, she's one of the chicks that hangs
+around here, she's jive crazy.
+
+258
+00:20:54,750 --> 00:20:56,830
+- Come again?
+- Oh, you ain't hip pal.
+
+259
+00:20:56,920 --> 00:20:59,840
+"Jive crazy" means that she goes for this stuff.
+Just between you and me, I don't
+
+260
+00:20:59,920 --> 00:21:01,710
+get it either, but I got to listen to it.
+
+261
+00:21:02,010 --> 00:21:04,670
+They're all connoisseurs, music lovers.
+Me, I like...
+
+262
+00:21:04,760 --> 00:21:06,760
+Guy Lombardo.
+
+263
+00:21:06,840 --> 00:21:10,260
+- What's the matter with him?
+- He's flipped, the music's driving him crazy.
+
+264
+00:21:10,560 --> 00:21:11,930
+Come down, Jack!
+
+265
+00:21:12,220 --> 00:21:15,060
+Oh, don't bug me man!
+I'm being enlightened.
+
+266
+00:21:15,350 --> 00:21:17,480
+- Is the blonde alone?
+- Oh sure, "Society".
+
+267
+00:21:17,770 --> 00:21:21,650
+She always comes in alone. Drives a big
+convertible, wears a mink coat,
+
+268
+00:21:21,940 --> 00:21:25,200
+knows everybody. But she always comes
+in alone.
+
+269
+00:21:27,070 --> 00:21:28,370
+Thank you.
+
+270
+00:21:31,280 --> 00:21:33,080
+Give me another blast, Leo.
+
+271
+00:21:34,040 --> 00:21:36,790
+- What's your story, Jeannie?
+- Easy.
+
+272
+00:21:41,040 --> 00:21:43,210
+- Hello.
+- Easy. Dig the Fisherman.
+
+273
+00:21:43,960 --> 00:21:46,470
+- That's really silk, isn't it?
+- Can I buy you a drink?
+
+274
+00:21:46,550 --> 00:21:49,090
+Sure, thanks. Give me a blast, Leo.
+
+275
+00:21:49,390 --> 00:21:53,140
+Leo, I left my "blast" at the other
+end of the bar.
+
+276
+00:22:03,230 --> 00:22:05,280
+My name's Jeannie, what's yours?
+
+277
+00:22:05,400 --> 00:22:08,240
+- Frank.
+- I've never seen you here before, Frank.
+
+278
+00:22:08,320 --> 00:22:10,370
+Well I've never been here before.
+
+279
+00:22:15,950 --> 00:22:20,040
+- This isn't mine, mine was Bourbon.
+- Well sure it is, you saw me pour it.
+
+280
+00:22:22,040 --> 00:22:24,210
+- Gimme a fresh drink.
+- Anything you say.
+
+281
+00:22:24,750 --> 00:22:27,630
+Listen to that piano,
+feel those vibrations.
+
+282
+00:22:31,010 --> 00:22:34,430
+- You don't get your kicks outta this, do you?
+- I can live without it!
+
+283
+00:22:35,020 --> 00:22:37,560
+- Why do you stay here?
+- I don't know.
+
+284
+00:22:38,020 --> 00:22:40,650
+I bet I know,
+you're lonely in a big city.
+
+285
+00:22:40,810 --> 00:22:43,820
+You don't have to go into a
+routine with me.
+
+286
+00:22:44,150 --> 00:22:46,940
+I like good company too.
+
+287
+00:22:54,160 --> 00:22:56,790
+Say, there's some people there
+that I want to avoid.
+
+288
+00:22:56,870 --> 00:22:59,120
+Couldn't we get out of here?
+
+289
+00:22:59,580 --> 00:23:02,670
+- Let me think about it.
+- Come on, how about going somewhere else?
+
+290
+00:23:03,880 --> 00:23:06,300
+Why don't you meet me later?
+
+291
+00:23:09,380 --> 00:23:10,880
+OK. Where?
+
+292
+00:23:19,890 --> 00:23:23,230
+Call me at that number later,
+it's my next stop.
+
+293
+00:23:23,310 --> 00:23:25,980
+They got a band there that'll
+really send you.
+
+294
+00:23:26,070 --> 00:23:28,690
+- See you, Jeannie.
+- Easy.
+
+295
+00:23:54,850 --> 00:23:56,600
+Never mind, operator.
+
+296
+00:25:20,050 --> 00:25:22,670
+Room service, please.
+
+297
+00:25:25,630 --> 00:25:26,970
+Come in.
+
+298
+00:25:31,890 --> 00:25:34,770
+- Be right with you, waiter.
+- Yes Sir.
+
+299
+00:25:36,560 --> 00:25:38,810
+- Was this all, Sir?
+- Yeah, sure.
+
+300
+00:25:38,900 --> 00:25:40,900
+- May I?
+- Go ahead.
+
+301
+00:25:43,650 --> 00:25:45,740
+- I've signed there for you.
+- Thank you Sir.
+
+302
+00:25:45,910 --> 00:25:49,530
+- Would you like anything else?
+- No thank you, that's all.
+
+303
+00:25:52,410 --> 00:25:54,080
+- Waiter!
+- Yes Sir?
+
+304
+00:25:57,000 --> 00:25:58,380
+Take this away.
+
+305
+00:26:00,250 --> 00:26:03,510
+- Is there anything wrong, Sir?
+- No, just take it away.
+
+306
+00:26:03,590 --> 00:26:05,470
+I don't want to even look at it.
+
+307
+00:26:08,010 --> 00:26:10,390
+- Are you alright, Sir?
+- Yes, sure.
+
+308
+00:26:12,100 --> 00:26:14,850
+Alright, I just had too big
+a night I guess, that's all.
+
+309
+00:26:15,680 --> 00:26:18,100
+- I need some fresh air.
+- Of course.
+
+310
+00:26:18,190 --> 00:26:19,770
+Thank you, Sir.
+
+311
+00:27:21,080 --> 00:27:23,880
+Lungs in good condition,
+blood pressure normal...
+
+312
+00:27:24,340 --> 00:27:27,920
+heart fine. Well, it's a good thing that
+everybody isn't like you, Mr. Bigelow,
+
+313
+00:27:28,010 --> 00:27:31,390
+- put us doctors out of business!
+- Glad to hear it, Doctor, I was worried.
+
+314
+00:27:31,470 --> 00:27:34,810
+Don't let a little bellyache worry you,
+could be just the change in climate.
+
+315
+00:27:34,890 --> 00:27:38,890
+Well it isn't exactly an ache, Doctor,
+it's kind of hard to describe the feeling.
+
+316
+00:27:39,060 --> 00:27:42,190
+Maybe it was the drinks I had last night,
+I might have mixed them too much, eh?
+
+317
+00:27:42,270 --> 00:27:44,900
+Let's have another look at that throat.
+
+318
+00:27:47,530 --> 00:27:51,490
+You may finish dressing now, Mr. Bigelow
+I want to get the results of those tests.
+
+319
+00:27:51,700 --> 00:27:53,370
+Thank you, Doctor.
+
+320
+00:28:14,930 --> 00:28:17,060
+Mr. Bigelow, this is Dr. Schaefer.
+
+321
+00:28:17,140 --> 00:28:19,930
+- Hello Doctor, how are you?
+- Sit down, Mr. Bigelow.
+
+322
+00:28:21,230 --> 00:28:24,230
+According to the information you gave
+Miss Wilson, you're not married Mr. Bigelow.
+
+323
+00:28:24,310 --> 00:28:28,220
+- That's right.
+- Do you have any relatives, family, anyone in San Francisico?
+
+324
+00:28:28,360 --> 00:28:30,610
+- No one. I don't know a soul in San Francisco.
+
+325
+00:28:30,940 --> 00:28:34,070
+- Where is your home?
+- What is this, Doctor? Why all the questions?
+
+326
+00:28:34,490 --> 00:28:36,830
+- You're a very sick man, Mr. Bigelow.
+- Sick!?
+
+327
+00:28:36,910 --> 00:28:38,570
+But you told me I was in good shape!
+
+328
+00:28:38,650 --> 00:28:42,960
+Yes, I know, but my preliminary examination
+didn't reveal your true condition.
+
+329
+00:28:43,040 --> 00:28:45,750
+- You sound as if it's pretty serious, Doctor.
+- It's extremely serious.
+
+330
+00:28:45,830 --> 00:28:50,260
+I want you to understand that we wouldn't tell you
+something like this unless we were absolutely certain.
+
+331
+00:28:50,420 --> 00:28:53,510
+- Well of course, of course.
+- You must steel yourself for a shock, Mr. Bigelow.
+
+332
+00:28:53,590 --> 00:28:55,890
+Well go on, Doctor, what is it you're
+trying to tell me?
+
+333
+00:28:55,970 --> 00:28:59,680
+Our tests reveal the presence in your body
+of a luminous toxic matter.
+
+334
+00:28:59,770 --> 00:29:03,100
+- What is that, exactly?
+- A poison that attacks the vital organs.
+
+335
+00:29:03,190 --> 00:29:05,810
+- Poison?
+- There is no alternative but to tell you this.
+
+336
+00:29:05,940 --> 00:29:09,190
+Your system has already absorbed
+sufficient toxin to prove fatal.
+
+337
+00:29:09,270 --> 00:29:11,530
+I wish there was something
+that we could do.
+
+338
+00:29:12,240 --> 00:29:16,120
+- What do you mean wish...?
+- There is nothing ANYONE can do.
+
+339
+00:29:16,200 --> 00:29:20,370
+This is one of the few poisons of its type
+for which there is no antidote.
+
+340
+00:29:20,450 --> 00:29:22,790
+This is fantastic! This is the most
+ridiculous thing...
+
+341
+00:29:23,120 --> 00:29:26,330
+Mr. Bigelow, you don't have very long.
+
+342
+00:29:27,420 --> 00:29:30,210
+- What do you mean?
+- A day, possibly a week,
+
+343
+00:29:30,300 --> 00:29:32,580
+two weeks at the outside.
+It's hard to say exactly.
+
+344
+00:29:33,470 --> 00:29:34,930
+This is impossible, I don't believe it!
+
+345
+00:29:35,010 --> 00:29:37,610
+You've made a mistake.
+That's it, it could be a mistake, couldn't it?
+
+346
+00:29:38,010 --> 00:29:40,010
+You have made a mistake, haven't you?
+Answer me!
+
+347
+00:29:40,100 --> 00:29:42,310
+Dr. Schaefer is an authority on toxicology.
+
+348
+00:29:42,810 --> 00:29:45,310
+There's been no mistake, Mr. Bigelow.
+
+349
+00:29:45,480 --> 00:29:49,610
+Do you realise what you're saying?
+You're telling me that I'm DEAD.
+
+350
+00:29:49,730 --> 00:29:52,570
+Do you think you can explain my life
+away in just a few words?
+
+351
+00:29:52,650 --> 00:29:54,990
+Why, I don't even know who you are!
+Why should I believe you?
+
+352
+00:29:55,070 --> 00:29:58,820
+You must calm yourself, Mr. Bigelow. We want
+to offer you every assistance that...
+
+353
+00:29:58,910 --> 00:30:01,830
+Assistance? Who wants assistance?
+Who wants anything from you?
+
+354
+00:30:02,030 --> 00:30:05,940
+You're nothing but a couple of phoneys. I
+think you're crazy, both of you, you're crazy!
+
+355
+00:30:22,260 --> 00:30:25,140
+- Where's the Doctor?
+- You can't come in here!
+
+356
+00:30:25,270 --> 00:30:26,690
+Come on, tell me!
+
+357
+00:30:28,100 --> 00:30:29,580
+What's the trouble here?
+What's the matter with you?
+
+358
+00:30:29,790 --> 00:30:34,490
+Doctor, I want you to examine me
+for luminous poison.
+
+359
+00:30:35,700 --> 00:30:37,240
+Come right in here.
+
+360
+00:30:44,790 --> 00:30:46,620
+Yeah, you've got it alright.
+
+361
+00:30:47,870 --> 00:30:50,290
+Your system has already absorbed it.
+
+362
+00:30:50,840 --> 00:30:53,920
+Are you sure, Doctor?
+Are you absolutely certain?
+
+363
+00:30:54,340 --> 00:30:56,260
+Couldn't there be some mistake?
+
+364
+00:31:00,510 --> 00:31:03,810
+There it is. The toxin is actually
+luminous in the dark.
+
+365
+00:31:04,560 --> 00:31:07,270
+No, there' no doubt about it, Bigelow.
+
+366
+00:31:08,140 --> 00:31:11,650
+I don't feel sick, my stomach is
+just a little bit upset.
+
+367
+00:31:11,730 --> 00:31:13,690
+Maybe it's not as bad as you think, Doctor.
+
+368
+00:31:14,000 --> 00:31:17,400
+That's characteristic. With a heavy jolt
+you go suddenly, in a matter of hours...
+
+369
+00:31:17,490 --> 00:31:20,280
+but if the stuff is taken in a lesser
+degree, you last a while...
+
+370
+00:31:20,820 --> 00:31:22,320
+and then...
+
+371
+00:31:24,990 --> 00:31:26,450
+and then?
+
+372
+00:31:28,500 --> 00:31:31,830
+- Give it to me straight, Doctor!
+- Well, a number of things are involved,
+
+373
+00:31:32,040 --> 00:31:34,800
+- the systemic condition of the individual,
+the amount consumed,
+
+374
+00:31:35,130 --> 00:31:37,630
+- Yes
+- you won't feel too badly for a while,
+
+375
+00:31:39,010 --> 00:31:41,590
+then it will happen suddenly,
+a day, two days,
+
+376
+00:31:42,260 --> 00:31:44,180
+a week at the most.
+
+377
+00:31:48,430 --> 00:31:49,730
+A day!
+
+378
+00:31:50,730 --> 00:31:53,480
+- Two days!
+- There's nothing that can be done, now.
+
+379
+00:31:53,940 --> 00:31:56,150
+If it had been caught in time,
+your stomach could have been washed out.
+
+380
+00:31:56,230 --> 00:31:59,780
+But you've had it in you for some time now
+for at least twelve hours , haven't you?
+
+381
+00:31:59,860 --> 00:32:01,240
+I don't know!
+
+382
+00:32:02,280 --> 00:32:03,740
+- You don't know?
+- No!
+
+383
+00:32:03,830 --> 00:32:07,080
+Don't you know how you got it?
+This is no accident,
+
+384
+00:32:07,160 --> 00:32:10,580
+somebody knew how to handle that stuff.
+That wax is tasteless and odourless.
+
+385
+00:32:10,660 --> 00:32:12,960
+From the amount of alcohol in your body
+you must have got it in liquor.
+
+386
+00:32:13,040 --> 00:32:16,880
+- I was drinking last night.
+- Arrange for your admission to the hospital immediately.
+
+387
+00:32:17,710 --> 00:32:20,630
+Of course I'll have to notify the police.
+
+388
+00:32:20,720 --> 00:32:23,180
+- This is a case for Homicide.
+- Homicide?
+
+389
+00:32:23,260 --> 00:32:26,140
+I don't think you fully understand, Bigelow.
+
+390
+00:32:27,430 --> 00:32:29,140
+You've been murdered.
+
+391
+00:32:34,900 --> 00:32:37,150
+Get me Police Headquarters please.
+
+392
+00:32:37,230 --> 00:32:39,400
+Homicide Bureau.
+
+393
+00:34:00,730 --> 00:34:04,360
+"A day, two days, a week at the most"
+
+394
+00:34:32,220 --> 00:34:34,020
+"You've been murdered."
+
+395
+00:34:35,140 --> 00:34:37,980
+"This is no accident.
+Somebody knew how to handle that stuff."
+
+396
+00:34:38,060 --> 00:34:41,360
+"From the amount of alcohol in your body,
+you must have got it from liquor."
+
+397
+00:34:41,650 --> 00:34:43,900
+"There's nothing that can be done now."
+
+398
+00:34:44,900 --> 00:34:46,700
+"You've been murdered."
+
+399
+00:34:47,990 --> 00:34:49,780
+"You've been murdered."
+
+400
+00:35:52,140 --> 00:35:53,430
+Open up!
+
+401
+00:35:54,810 --> 00:35:56,520
+Open this door, I tell you!
+
+402
+00:35:56,620 --> 00:35:59,020
+Open up or I'll break it down!
+
+403
+00:35:59,080 --> 00:36:01,030
+Where are those men?
+Where are those men who were here last night?
+
+404
+00:36:01,310 --> 00:36:03,810
+I don't know, there are no men here.
+Please go away...
+
+405
+00:36:03,900 --> 00:36:07,360
+- Don't lie to me! Where are they?
+- Mister, this lady just checked in.
+
+406
+00:36:07,560 --> 00:36:10,860
+Those men aren't here no longer.
+They checked out early this morning.
+
+407
+00:36:11,010 --> 00:36:13,820
+- Checked out?
+- Please go away.
+
+408
+00:36:14,280 --> 00:36:15,660
+I'm sorry.
+
+409
+00:36:15,970 --> 00:36:18,200
+I'm terribly sorry.
+
+410
+00:36:22,750 --> 00:36:26,340
+- Hello?
+- Please, Mr. Bigelow, my eardrums!
+
+411
+00:36:27,060 --> 00:36:30,840
+- Hello, Paula.
+- Your enthusiasm overwhelms me.
+
+412
+00:36:31,080 --> 00:36:35,470
+Why haven't you phoned me?
+Or is there a quota on telephone calls up there?
+
+413
+00:36:35,850 --> 00:36:38,500
+I'm sorry, I, I've been busy.
+
+414
+00:36:38,640 --> 00:36:42,260
+I'll bet you have,
+visiting the museums no doubt.
+
+415
+00:36:42,420 --> 00:36:44,550
+What's happening up there that's
+exciting or different?
+
+416
+00:36:45,060 --> 00:36:47,070
+- Nothing, not a thing.
+- I'll bet you miss me,
+
+417
+00:36:47,150 --> 00:36:50,530
+but you're too stubborn to admit it.
+
+418
+00:36:50,950 --> 00:36:53,540
+You know, if you'd like me to come up,
+I could pack a toothbrush right away.
+
+419
+00:36:53,620 --> 00:36:56,660
+- No!
+- Well you don't have to snap my head off!
+
+420
+00:36:57,170 --> 00:36:59,200
+You could at least make a pretence
+of missing me.
+
+421
+00:36:59,800 --> 00:37:02,000
+I'm sorry, Paula.
+
+422
+00:37:02,500 --> 00:37:04,670
+Of course I miss you.
+
+423
+00:37:05,670 --> 00:37:07,380
+Listen, Paula, I...
+
+424
+00:37:09,090 --> 00:37:12,630
+Paula, it's just that I don't feel
+like talking now,
+
+425
+00:37:12,930 --> 00:37:15,510
+- I'll call you later.
+- Don't strain yourself.
+
+426
+00:37:15,700 --> 00:37:19,140
+You phone me sometime when you
+feel more like talking.
+
+427
+00:37:20,480 --> 00:37:24,290
+- By the way, I called that Mr. Phillips back.
+- Phillips?
+
+428
+00:37:24,570 --> 00:37:26,480
+Yes, you know, the man that tried to reach you.
+
+429
+00:37:26,660 --> 00:37:29,520
+Well I'm afraid that you'll never know why
+it was so important that he speak to you.
+
+430
+00:37:29,670 --> 00:37:32,380
+His office said he died yesterday.
+
+431
+00:37:33,130 --> 00:37:35,180
+Frank, are you there?
+
+432
+00:37:35,430 --> 00:37:37,170
+Did you hear me?
+
+433
+00:37:39,950 --> 00:37:41,360
+Die?
+
+434
+00:37:42,680 --> 00:37:45,320
+- When?
+- Yesterday. So you won't have to bother
+
+435
+00:37:45,330 --> 00:37:48,320
+your little head about him any more,
+you can just go ahead and have fun.
+
+436
+00:37:49,780 --> 00:37:52,950
+Paula, what did he die from, do you know?
+
+437
+00:37:53,030 --> 00:37:55,760
+I suppose he died from whatever people
+usually die from.
+
+438
+00:37:55,960 --> 00:37:57,650
+Well didn't they tell you, don't you know?
+
+439
+00:37:57,730 --> 00:38:00,780
+What are you getting so excited about,
+you said you didn't even know the man.
+
+440
+00:38:01,210 --> 00:38:06,110
+- Listen, where's his office located?
+- What difference does it make? You can't talk to him now,
+I told you the man's dead.
+
+441
+00:38:06,370 --> 00:38:09,530
+Paula will you stop talking so much,
+and tell me where his office is!
+
+442
+00:38:10,420 --> 00:38:12,230
+Well alright.
+
+443
+00:38:13,150 --> 00:38:16,860
+It's the Phillips Importing and Exporting
+Company,
+
+444
+00:38:17,080 --> 00:38:19,260
+Bradbury Building, Los Angeles.
+
+445
+00:38:19,800 --> 00:38:22,120
+- Bradbury Building, Los Angeles.
+- That's right.
+
+446
+00:38:22,250 --> 00:38:24,050
+Say, this is really a switch!
+
+447
+00:38:24,240 --> 00:38:26,070
+Listen,if you want to reach me,
+I'll be in Los Angeles.
+
+448
+00:38:26,080 --> 00:38:28,860
+- Are you out of your mind?
+- I'm sorry, Paula, I've got to hurry!
+
+449
+00:38:28,860 --> 00:38:30,870
+Wait a minute, where in Los Angeles?
+
+450
+00:38:31,500 --> 00:38:34,210
+The Allison, The Allison Hotel.
+Goodbye, Paula.
+
+451
+00:39:09,310 --> 00:39:11,860
+- I'd like to see someone in charge here.
+- What does it regard to?
+
+452
+00:39:11,870 --> 00:39:14,800
+- It's a personal matter, it's quite urgent.
+- Perhaps Mr. Halliday can help you.
+
+453
+00:39:14,810 --> 00:39:16,770
+- Who's he?
+- He's our controller.
+
+454
+00:39:17,000 --> 00:39:19,030
+- Your name, please?
+- Bigelow.
+
+455
+00:39:20,050 --> 00:39:22,160
+- Mr. Bigelow to see you.
+- Send him in.
+
+456
+00:39:22,680 --> 00:39:24,560
+Go right in, please. That door.
+
+457
+00:39:30,520 --> 00:39:33,230
+- Mr. Bigelow.
+- How are you, Mr. Halliday?
+
+458
+00:39:35,310 --> 00:39:37,730
+- What can I do for you?
+- Well Mr. Phillips phoned
+
+459
+00:39:37,740 --> 00:39:39,390
+my office several times yesterday.
+
+460
+00:39:39,400 --> 00:39:42,730
+- I'd like to find out what it's all about.
+- You know Mr. Phillips died yesterday?
+
+461
+00:39:43,030 --> 00:39:45,440
+- Yes, I know.
+- Well I don't understand.
+
+462
+00:39:46,030 --> 00:39:48,310
+If he phoned you, didn't he
+tell you what it was about?
+
+463
+00:39:48,720 --> 00:39:51,650
+Well he didn't speak to me,
+I wasn't in my office at the time,
+
+464
+00:39:51,800 --> 00:39:55,980
+- and he wouldn't tell my secretary.
+- Well I'm afraid I can't be of much help.
+
+465
+00:39:56,210 --> 00:39:58,720
+I've no idea why Mr. Phillips tried
+to reach you.
+
+466
+00:39:59,210 --> 00:40:01,240
+I'm sorry you had to make the trip for nothing.
+
+467
+00:40:01,980 --> 00:40:04,840
+How do you know I made a trip?
+I didn't say anything about making a trip,
+
+468
+00:40:04,850 --> 00:40:08,730
+I merely said he phoned my office.
+My office could be here in Los Angeles.
+
+469
+00:40:10,110 --> 00:40:11,350
+Miss Foster!
+
+470
+00:40:12,920 --> 00:40:15,220
+- Yes?
+- Didn't you mention something yesterday
+
+471
+00:40:15,230 --> 00:40:17,680
+about Mr. Phillips speaking with
+Mr. Bigelow in San Francisco?
+
+472
+00:40:17,840 --> 00:40:20,110
+I said that he had phoned Mr. Bigelow's
+office in Banning,
+
+473
+00:40:20,120 --> 00:40:23,240
+but that Mr. Bigelow was staying at the
+St. Francis hotel in San Francisco.
+
+474
+00:40:23,350 --> 00:40:25,910
+- I'm sorry you misunderstood me.
+- Do you know why Mr. Phillips called?
+
+475
+00:40:25,910 --> 00:40:28,020
+- No, I don't.
+- Alright. Thank you, Miss Foster.
+
+476
+00:40:28,450 --> 00:40:31,250
+You can understand that we've been
+somewhat upset around here,
+
+477
+00:40:32,080 --> 00:40:33,890
+now if you don't mind...
+
+478
+00:40:39,360 --> 00:40:42,510
+Did Mr. Phillips have a wife, family,
+anyone that could help me?
+
+479
+00:40:42,840 --> 00:40:45,070
+You can't intrude on people at a time
+like this
+
+480
+00:40:45,080 --> 00:40:47,880
+- just to satisfy some curiosity.
+- It isn't just curiosity!
+
+481
+00:40:47,890 --> 00:40:49,720
+- Then I suggest you wait a week or so!
+- I can't wait.
+
+482
+00:40:49,720 --> 00:40:52,120
+- Well I'm sorry, you'll have to!
+- Well, there's always a phone book.
+
+483
+00:40:52,400 --> 00:40:54,520
+You're a pretty aggressive fellow, Bigelow.
+
+484
+00:40:55,020 --> 00:40:57,640
+Are you quite sure that this is as
+important as you make it appear to be?
+
+485
+00:40:57,750 --> 00:40:58,920
+It's important.
+
+486
+00:40:59,410 --> 00:41:01,930
+Mrs. Phillips lives at the
+Sunset Arms apartments.
+
+487
+00:41:02,380 --> 00:41:05,180
+- Thank you.
+- I needn't tell you she's under a strain.
+
+488
+00:41:09,770 --> 00:41:13,560
+I suppose you're capable of using a little
+more tact than you demonstrated with me?
+
+489
+00:41:13,660 --> 00:41:17,070
+I can handle it. By the way, what was the
+cause of Mr. Phillips' death?
+
+490
+00:41:17,940 --> 00:41:20,790
+Suicide, he leaped from the balcony of
+his apartment.
+
+491
+00:41:22,060 --> 00:41:23,380
+Thank you.
+
+492
+00:41:35,150 --> 00:41:36,900
+Come in, Mr. Bigelow.
+
+493
+00:41:41,820 --> 00:41:44,200
+I'm Stanley Phillips, Eugene's brother.
+
+494
+00:41:44,280 --> 00:41:46,910
+Halliday phoned that you were coming.
+
+495
+00:41:51,330 --> 00:41:53,410
+This is my sister-in-law, Mrs. Phillips.
+
+496
+00:41:53,500 --> 00:41:56,080
+I'll try to make this as brief
+as possible, Mrs. Phillips.
+
+497
+00:41:56,750 --> 00:41:59,840
+I'm afraid I can't be of any help
+to you, Mr. Bigelow
+
+498
+00:41:59,920 --> 00:42:04,260
+I haven't the slightest idea why
+my husband wanted to speak to you.
+
+499
+00:42:06,430 --> 00:42:09,600
+Well I guess Halliday covered just
+about everything.
+
+500
+00:42:10,060 --> 00:42:13,020
+Did your husband ever mention anything
+about me, Mrs. Phillips, anything at all?
+
+501
+00:42:13,770 --> 00:42:18,730
+No, I can't recall Eugene ever having
+mentioned your name.
+
+502
+00:42:27,660 --> 00:42:31,290
+I hate to ask you this, Mrs. Phillips,
+but it's of vital importance to me.
+
+503
+00:42:32,250 --> 00:42:34,830
+Do you know why your husband
+committed suicide?
+
+504
+00:42:40,590 --> 00:42:44,220
+You're certainly not the most diplomatic
+person in the world, are you, Bigelow?
+
+505
+00:42:45,510 --> 00:42:48,510
+- Were you a friend of my brother's?
+- I never met him.
+
+506
+00:42:54,770 --> 00:42:57,350
+My brother was in a jam, a pretty bad jam.
+
+507
+00:42:57,440 --> 00:42:59,520
+He was arrested two days ago.
+
+508
+00:42:59,610 --> 00:43:02,110
+He sold some iridium to a dealer
+by the name of Majak.
+
+509
+00:43:02,320 --> 00:43:04,900
+It's a very rare metal, very costly
+
+510
+00:43:05,200 --> 00:43:07,310
+Anyway, the iridium turned out to be stolen.
+
+511
+00:43:07,700 --> 00:43:10,690
+He was released on bail yesterday,
+but he faced a pretty stiff prison term.
+
+512
+00:43:11,020 --> 00:43:14,500
+- Men have committed suicide for less.
+- Yes, I know, that's how the police see it.
+
+513
+00:43:14,850 --> 00:43:16,950
+What puzzles me, though, is this
+crooked deal.
+
+514
+00:43:17,430 --> 00:43:20,940
+Knowing Eugene, you wouldn't say he was the
+type of man to be mixed up in that, would you?
+
+515
+00:43:20,990 --> 00:43:23,680
+- I told you, I never met him.
+- That's right, so you did.
+
+516
+00:43:24,340 --> 00:43:26,650
+- Now what's this all got to do with you?
+- I don't know.
+
+517
+00:43:26,770 --> 00:43:31,550
+Let's come clean. Surely you must have some
+idea why my brother wanted to speak to you.
+
+518
+00:43:31,600 --> 00:43:33,430
+- I have NO idea.
+- That's odd.
+
+519
+00:43:33,580 --> 00:43:35,530
+Then how can it be of such vital
+importance to you?
+
+520
+00:43:35,640 --> 00:43:37,790
+You seem to know the answer to
+everything else,
+
+521
+00:43:38,000 --> 00:43:40,020
+Maybe you know the answer to that one, too.
+
+522
+00:43:51,040 --> 00:43:53,750
+There's a message here for you to call
+operator 82 at Banning.
+
+523
+00:43:53,830 --> 00:43:56,670
+- Thank you.
+- Show Mr. Bigelow to room 821.
+
+524
+00:43:56,960 --> 00:43:59,510
+Say, would you have the operator to put
+this call through to my room right away?
+
+525
+00:43:59,590 --> 00:44:01,170
+Yes, right away.
+
+526
+00:44:02,470 --> 00:44:03,890
+Hello operator?
+
+527
+00:44:06,390 --> 00:44:08,680
+- Here. I'll call you if I need anything.
+- Thank you, Sir.
+
+528
+00:44:09,430 --> 00:44:12,330
+- Hello, Paula?
+- Well, Sinbad.
+
+529
+00:44:12,510 --> 00:44:14,520
+I'd just about given you up for lost.
+
+530
+00:44:14,920 --> 00:44:18,330
+Now do you mind telling me just why
+you rushed down to Los Angeles?
+
+531
+00:44:19,480 --> 00:44:21,870
+I can't explain it to you just now, Paula, I...
+
+532
+00:44:22,160 --> 00:44:25,140
+- I just can't explain it.
+- What's going on, Frank,
+
+533
+00:44:25,140 --> 00:44:25,150
+- you don't even sound like yourself?
+- Well I.....
+- I just can't explain it.
+- What's going on, Frank,
+
+534
+00:44:25,150 --> 00:44:27,370
+- you don't even sound like yourself?
+- Well I.....
+
+535
+00:44:29,530 --> 00:44:32,380
+I'm just a little tired, Paula, that's all.
+
+536
+00:44:34,380 --> 00:44:35,750
+But I miss you.
+
+537
+00:44:36,150 --> 00:44:41,300
+Oh, Frank. I can't tell you how good
+it is to hear you say that.
+
+538
+00:44:41,620 --> 00:44:44,190
+And here I was worrying that I'd
+lost my charm.
+
+539
+00:44:44,840 --> 00:44:46,870
+When are you coming home, Frank?
+
+540
+00:44:47,630 --> 00:44:50,520
+Soon, Paula.  I'll be home soon.
+
+541
+00:44:52,180 --> 00:44:55,800
+I'll go right out and get myself a permanent,
+so I'll be pretty when you see me.
+
+542
+00:44:56,240 --> 00:44:59,580
+Hey, guess what? I found that Phillips name
+in your notarial ledger.
+
+543
+00:45:01,640 --> 00:45:04,110
+- Notarial ledger?
+- Yes, of all places.
+
+544
+00:45:04,400 --> 00:45:06,820
+I remember now, I made the entry myself.
+
+545
+00:45:06,910 --> 00:45:09,900
+You had notarised a paper one morning,
+before I came to work.
+
+546
+00:45:09,990 --> 00:45:13,830
+- What kind of paper was it?
+- A Bill of Sale, for a George Reynolds,
+
+547
+00:45:13,910 --> 00:45:16,420
+made out to Eugene Phillips, of Los Angeles.
+
+548
+00:45:16,630 --> 00:45:20,090
+So you see I was right, we hadn't done any
+business with Phillips, only indirectly.
+
+549
+00:45:20,340 --> 00:45:23,800
+- What was the Bill of Sale for?
+- A shipment of iridium, whatever that is.
+
+550
+00:45:23,880 --> 00:45:25,680
+- Iridium?
+- You mentioned at the time
+
+551
+00:45:25,760 --> 00:45:28,720
+that this fellow Reynolds had made some
+kind of a deal in Palm Springs, and he
+
+552
+00:45:28,840 --> 00:45:32,400
+stopped in your office early in the morning
+on his way north to have it notarised.
+
+553
+00:45:32,410 --> 00:45:36,600
+Wait a minute! Wait a minute, George Reynolds.
+That was about six months ago, wasn't it?
+
+554
+00:45:38,020 --> 00:45:39,890
+- That's right. Six months ago.
+- Thanks, Pau...
+
+555
+00:45:39,950 --> 00:45:42,610
+Oh! Goodbye.
+
+556
+00:45:43,190 --> 00:45:44,400
+Goodbye?.
+
+557
+00:45:45,740 --> 00:45:48,160
+Hello, operator.
+Get that number back for me.
+
+558
+00:46:10,390 --> 00:46:12,100
+I've got to talk to you, Mrs. Phillips.
+
+559
+00:46:12,100 --> 00:46:15,780
+Please, go away, I want to be left alone.
+
+560
+00:46:15,800 --> 00:46:19,320
+But I found out why your husband wanted to
+see me, it was about a Bill of Sale.
+
+561
+00:46:19,910 --> 00:46:22,050
+- Come in.
+- Thank you.
+
+562
+00:46:23,880 --> 00:46:25,910
+What do you know about a man
+named George Reynolds?
+
+563
+00:46:26,050 --> 00:46:27,400
+- George Reynolds?
+- Yes.
+
+564
+00:46:27,640 --> 00:46:30,050
+Why that's the man my husband claims
+sold him the iridium.
+
+565
+00:46:30,060 --> 00:46:32,650
+- And what does Reynolds claim?
+- Reynolds disappeared.
+
+566
+00:46:33,590 --> 00:46:37,520
+About two months ago, my husband grew
+suspicious that something was wrong,
+
+567
+00:46:37,900 --> 00:46:40,260
+since then he tried in every way to locate
+Reynolds,
+
+568
+00:46:40,260 --> 00:46:42,560
+- but could find no trace of him.
+- I don't get it,
+
+569
+00:46:42,600 --> 00:46:45,010
+your husband could have proved he made a
+legitimate deal by showing
+
+570
+00:46:45,010 --> 00:46:47,560
+- the Bill of Sale he got from Reynolds.
+- Then there was a Bill of Sale?
+
+571
+00:46:47,570 --> 00:46:50,460
+- yes, yes of course there was.
+- My husband swore there was,
+
+572
+00:46:50,470 --> 00:46:52,730
+but at the time of his arrest, he
+couldn't find it,
+
+573
+00:46:52,740 --> 00:46:56,580
+- it was mysteriously missing.
+- if your husband could have shown proof,
+
+574
+00:46:56,590 --> 00:46:58,980
+it would have been George Reynolds who
+would have faced the prison term.
+
+575
+00:46:59,230 --> 00:47:01,730
+Eugene was convinced that Reynolds had
+stolen the Bill of Sale.
+
+576
+00:47:01,740 --> 00:47:05,500
+He was the only one who had reason to
+eliminate evidence of the transaction.
+
+577
+00:47:07,200 --> 00:47:10,520
+Thank you Mrs. Phillips, thank you
+very much, you've been very helpful.
+
+578
+00:47:11,600 --> 00:47:14,130
+Oh, if only you'd come sooner,
+Mr. Bigelow,
+
+579
+00:47:14,390 --> 00:47:16,780
+my husband might be alive today.
+
+580
+00:47:17,080 --> 00:47:18,510
+I know.
+
+581
+00:47:25,900 --> 00:47:27,560
+The only thing that puzzles me,
+Mrs. Phillips,
+
+582
+00:47:27,600 --> 00:47:31,000
+is that you haven't asked how I knew
+there was a Bill of Sale.
+
+583
+00:47:43,500 --> 00:47:46,480
+Mr. Halliday isn't in, he should be
+back shortly.
+
+584
+00:47:46,630 --> 00:47:48,530
+I think you're the one who can help
+me, Miss Foster,
+
+585
+00:47:48,670 --> 00:47:51,660
+Mr. Phillips tried to reach someone else
+before he called me yesterday, didn't he.
+
+586
+00:47:51,710 --> 00:47:55,040
+- Why don't you ask Mr. Halliday.
+- Obviously Mr. Halliday wasn't here yesterday,
+
+587
+00:47:55,150 --> 00:47:57,290
+or he wouldn't have had to learn from
+you that Phillips called me,
+
+588
+00:47:57,420 --> 00:48:00,000
+and you're the logical person to know
+who else Phillips called.
+
+589
+00:48:00,340 --> 00:48:03,150
+- I don't think that's any of your business.
+- Don't think you're revealing anything
+
+590
+00:48:03,160 --> 00:48:07,040
+confidential, I know that he tried to reach
+somebody else, Mrs. Phillips told me.
+
+591
+00:48:07,110 --> 00:48:10,380
+You're bluffing, Mr. Bigelow. I don't know what
+you're after, but you're trying to trick me.
+
+592
+00:48:10,440 --> 00:48:12,560
+Mrs. Phillips didn't tell you a thing.
+
+593
+00:48:12,700 --> 00:48:15,560
+- How do you know that?
+- Mrs. Phillips knows nothing about it.
+
+594
+00:48:15,650 --> 00:48:17,710
+She doesn't? Why wouldn't she...?
+
+595
+00:48:17,770 --> 00:48:20,430
+Wait a minute. I was talking about George
+Reynolds...
+
+596
+00:48:20,440 --> 00:48:22,930
+Who did you think I meant, just who is it
+that Mrs. Phillips doesn't know about?
+
+597
+00:48:22,940 --> 00:48:26,700
+- I told you, that's none of your business.
+- I'll give it to you straight, Phillips was murdered.
+
+598
+00:48:26,710 --> 00:48:29,650
+- Murdered? I don't believe you.
+- He called because he needed me to clear him.
+
+599
+00:48:29,660 --> 00:48:31,860
+Phillips was innocent, innocent men don't
+have to jump out of windows!
+
+600
+00:48:31,860 --> 00:48:34,310
+- Murdered!
+- Just who are you trying to protect?
+
+601
+00:48:34,320 --> 00:48:37,210
+- Why are you so afraid to tell the truth?
+- I'm not protecting anybody!
+
+602
+00:48:37,470 --> 00:48:41,320
+- I haven't any more to say.
+- This thing is going to explode wide open.
+
+603
+00:48:41,710 --> 00:48:43,200
+If you've got nothing to hide,
+you'd better start talking.
+
+604
+00:48:43,210 --> 00:48:45,180
+- Or maybe you are mixed up in this!
+- No!
+
+605
+00:48:45,490 --> 00:48:48,010
+- Well then come on!
+- Mr. Phillips called Marla Rakubian,
+
+606
+00:48:48,190 --> 00:48:51,100
+- He went to see her yesterday morning.
+- Who is Marla Rakubian?
+
+607
+00:48:51,110 --> 00:48:54,160
+She's a model. She and Mr. Phillips used
+to be quite friendly,
+
+608
+00:48:54,170 --> 00:48:57,070
+but he hadn't been seeing her for some time.
+The last couple of months
+
+609
+00:48:57,080 --> 00:49:00,030
+he's been trying to locate her.
+He found out where she lived yesterday morning.
+
+610
+00:49:00,080 --> 00:49:03,640
+When he returned from seeing her, he was
+terribly upset and excited,
+
+611
+00:49:03,730 --> 00:49:05,620
+that's when he had me to put in
+the calls for you.
+
+612
+00:49:05,680 --> 00:49:09,660
+When he couldn't reach you he went home.
+The last time I saw him alive.
+
+613
+00:49:10,350 --> 00:49:12,290
+Give me Marla Rakubian's address.
+
+614
+00:49:12,540 --> 00:49:14,480
+I don't think Mr. Phillips
+
+615
+00:49:14,490 --> 00:49:18,000
+realised I was aware of his friendship
+with Marla Rakubian,
+
+616
+00:49:18,170 --> 00:49:20,830
+and out of respect for him I never intended
+to tell anybody.
+
+617
+00:49:21,780 --> 00:49:24,760
+I had no idea she had anything to do with
+the trouble he was in.
+
+618
+00:49:24,970 --> 00:49:27,760
+I admire your discretion, Miss Foster.
+
+619
+00:49:29,290 --> 00:49:31,300
+You know, you must be pretty friendly
+with Stanley, Miss Foster,
+
+620
+00:49:32,080 --> 00:49:33,710
+he knew how desperately his brother
+tried to reach me yesterday,
+
+621
+00:49:33,900 --> 00:49:35,510
+and he wasn't even here at the time.
+
+622
+00:49:36,110 --> 00:49:40,030
+And now you seem to know all about what
+happened in Mrs. Phillips apartment.
+
+623
+00:49:47,820 --> 00:49:49,380
+- Miss Rakubian?
+- Yes?
+
+624
+00:49:50,070 --> 00:49:52,400
+What do you want?
+Get out of here or I'll call the police.
+
+625
+00:49:52,420 --> 00:49:54,040
+Go ahead, call them!
+
+626
+00:49:54,410 --> 00:49:56,800
+Well go ahead, call them!
+Going on a trip, huh?
+
+627
+00:49:57,100 --> 00:50:00,650
+- Yes, going away for the weekend.
+- Sailing for Buenos Aires tomorrow,
+
+628
+00:50:00,660 --> 00:50:03,480
+- some weekend!
+- I'll send you a postcard, now get out!
+
+629
+00:50:03,530 --> 00:50:06,610
+- Who are you going with, George Reynolds?
+- I've never heard of him.
+
+630
+00:50:06,620 --> 00:50:08,560
+I suppose you've never heard of
+Eugene Phillips, either?
+
+631
+00:50:08,760 --> 00:50:11,080
+- Just who are you, what do you want?
+- Never mind who I am
+
+632
+00:50:11,100 --> 00:50:13,730
+- Where's Reynolds?
+- I told you I don't know him
+
+633
+00:50:13,740 --> 00:50:16,000
+now will you get out of here and
+leave me alone?
+
+634
+00:50:21,220 --> 00:50:22,870
+So you've never heard of George Reynolds!
+
+635
+00:50:23,000 --> 00:50:25,260
+Don't tell me this isn't him,
+because I've seen him!.
+
+636
+00:50:25,260 --> 00:50:28,810
+- If you think you can scare me, you're crazy.
+- Look I know that Phillips came here yesterday.
+
+637
+00:50:28,870 --> 00:50:31,210
+And right after he left, he was pushed
+out of a sixth storey window.
+
+638
+00:50:31,240 --> 00:50:35,100
+- Pushed? Phillips committed suicide.
+- Your playmate Reynolds murdered Phillips
+
+639
+00:50:35,170 --> 00:50:36,920
+then he went up to San Francisco to get me
+
+640
+00:50:37,230 --> 00:50:39,240
+because I knew about a certain Bill of Sale.
+
+641
+00:50:39,680 --> 00:50:43,040
+- I don't know what you're talking about.
+- You're in this right up to your pretty neck.
+
+642
+00:50:43,110 --> 00:50:45,790
+I'm not mixed up in anything.
+get your hands up!
+
+643
+00:50:46,210 --> 00:50:47,460
+Drop that picture on the couch.
+
+644
+00:50:47,860 --> 00:50:49,100
+Turn around!
+
+645
+00:50:50,860 --> 00:50:53,750
+Don't get any ideas, because I'm not
+afraid to use this.
+
+646
+00:50:54,410 --> 00:50:55,860
+Give me your wallet.
+
+647
+00:51:00,310 --> 00:51:02,600
+Frank Bigelow, hotel Alli...
+
+648
+00:51:06,180 --> 00:51:09,070
+- Alright, now where's Reynolds?
+- I don't know where he is.
+
+649
+00:51:09,460 --> 00:51:12,390
+- Is that what you told Phillips, yesterday?
+- I told him exactly what I'm telling you..
+
+650
+00:51:12,400 --> 00:51:13,630
+I haven't heard from him in months.
+
+651
+00:51:13,720 --> 00:51:16,780
+Yeah? You're mighty careful of the picture
+of a man you haven't heard from in months.
+
+652
+00:51:17,050 --> 00:51:20,830
+- What does the "Ray" stand for?
+- It was a pet name. Do you mind?
+
+653
+00:51:20,920 --> 00:51:22,840
+It all sounds very cosy, Miss Rakubian,
+
+654
+00:51:23,000 --> 00:51:25,970
+You and Reynolds call each other pet names
+while you make a sucker out of Phillips.
+
+655
+00:51:26,040 --> 00:51:27,580
+Phillips made the deal because he wanted it!
+
+656
+00:51:27,590 --> 00:51:31,860
+Yeah? Well I bet you weren't above using what
+it takes to help MAKE him want it.
+
+657
+00:51:32,340 --> 00:51:35,380
+- Who's paying for this trip?
+- I am!
+
+658
+00:51:35,750 --> 00:51:40,160
+Really? A first class trip to Buenos Aires
+on a model's salary. Don't make me laugh!
+
+659
+00:51:40,680 --> 00:51:44,330
+Since you and Reynolds aren't seeing each
+other any more, you don't mind if I keep this.
+
+660
+00:51:44,770 --> 00:51:48,610
+If I were a man I'd punch your dirty face in.
+
+661
+00:51:49,560 --> 00:51:51,900
+You know, I really believe you would.
+
+662
+00:51:54,320 --> 00:51:56,070
+Oh, I almost forgot.
+
+663
+00:51:56,530 --> 00:51:57,950
+Your tickets.
+
+664
+00:51:58,980 --> 00:52:01,380
+Don't be surprised if I'm there to see you off.
+
+665
+00:52:22,100 --> 00:52:23,390
+Angelo!
+
+666
+00:52:24,230 --> 00:52:25,520
+Angelo!
+
+667
+00:52:28,560 --> 00:52:31,860
+Oh, Angelo. Do you remember taking this
+picture of a George Reynolds?
+
+668
+00:52:31,900 --> 00:52:34,320
+I take so many pictures I can't
+remember them all.
+
+669
+00:52:34,360 --> 00:52:36,300
+This gentleman is a friend of his,
+and would like his address.
+
+670
+00:52:36,480 --> 00:52:39,120
+- We have no card on him.
+- I don't think we ought to do that.
+
+671
+00:52:39,300 --> 00:52:41,510
+He's willing to pay twenty dollars for it.
+
+672
+00:52:42,010 --> 00:52:43,610
+That's the paper we used last year.
+
+673
+00:52:43,930 --> 00:52:46,600
+Of course you understand we usually
+don't give out information about our clients.
+
+674
+00:52:46,610 --> 00:52:48,800
+- I know, you're a couple of high class fellas.
+- Thank you.
+
+675
+00:52:49,150 --> 00:52:52,040
+Revealing anything confidential is against
+the ethics of our establishment.
+
+676
+00:52:52,050 --> 00:52:54,820
+- That's right, honesty is the best policy.
+- Of course.
+
+677
+00:52:55,540 --> 00:52:58,420
+But in your case, in as much you're a
+personal friend of Mr. Reynolds...
+
+678
+00:52:58,430 --> 00:53:00,430
+- Thanks, I knew you'd come through.
+- Got it.
+
+679
+00:53:01,680 --> 00:53:04,750
+Here it is. We don't have his address, he
+must have called for the picture.
+
+680
+00:53:04,820 --> 00:53:06,680
+But he could not have been a very good friend
+of yours, Mister
+
+681
+00:53:06,890 --> 00:53:08,860
+because his name is not George Reynolds.
+
+682
+00:53:09,240 --> 00:53:11,110
+It isn't? Then what is it?
+
+683
+00:53:11,240 --> 00:53:16,600
+- It's Ray...
+- Huh....? Oh, here.
+
+684
+00:53:16,660 --> 00:53:20,770
+- It's Raymond Rakubian.
+- Rakubian?
+
+685
+00:53:21,770 --> 00:53:25,240
+what's so unusual about that?
+The picture's signed Ray, isn't it?
+
+686
+00:53:26,070 --> 00:53:27,160
+Yeah!
+
+687
+00:53:29,030 --> 00:53:30,280
+Yeah!!
+
+688
+00:53:31,820 --> 00:53:33,450
+Thanks!
+
+689
+00:56:24,590 --> 00:56:26,760
+Bigelow! Are you alright?
+
+690
+00:56:26,840 --> 00:56:29,140
+- Can I get you anything?
+- No, no thanks.
+
+691
+00:56:29,260 --> 00:56:32,950
+- Do you know this man?
+- No. No, I don't think so.
+
+692
+00:56:33,090 --> 00:56:36,090
+- Are you sure you've never seen him?
+- I'm quite sure.
+
+693
+00:56:36,420 --> 00:56:39,470
+Does the name Raymond Rakubian mean
+anything to you?
+
+694
+00:56:39,820 --> 00:56:43,150
+- No, I never heard of him, why?
+- He also uses the name George Reynolds.
+
+695
+00:56:43,360 --> 00:56:45,820
+This is Reynolds?
+Where can we find him?
+
+696
+00:56:45,900 --> 00:56:48,740
+That's what I want to know.
+Tell me something, Halliday.
+
+697
+00:56:48,820 --> 00:56:52,330
+You're the controller here, how come
+you didn't know about that Bill of Sale?
+
+698
+00:56:52,410 --> 00:56:56,210
+- Phillips made that deal before I came here.
+- Yeah, but you still keep records, don't you?
+
+699
+00:56:56,420 --> 00:57:00,750
+For some reason, which is none of my business,
+Phillips kept that among his personal papers.
+
+700
+00:57:01,300 --> 00:57:03,550
+Now does that answer your question?
+
+701
+00:57:04,090 --> 00:57:08,220
+You came in here today asking for information
+that you needed, and I tried to cooperate,
+
+702
+00:57:08,890 --> 00:57:11,010
+but now you're beginning to annoy me.
+
+703
+00:57:11,100 --> 00:57:13,890
+So get out before I throw you out!
+
+704
+00:57:18,100 --> 00:57:22,560
+You know, you really frighten me.
+
+705
+00:57:50,720 --> 00:57:53,470
+Well, it's about time you showed up,
+Bigelow.
+
+706
+00:57:53,600 --> 00:57:55,180
+Go ahead, Dave.
+
+707
+00:58:01,020 --> 00:58:03,360
+Real cute, ain't you , Bigelow.
+Just real cute.
+
+708
+00:58:03,860 --> 00:58:06,030
+Marla didn't lose much time in getting
+hold of you guys, did she?
+
+709
+00:58:06,110 --> 00:58:08,240
+Shut up! Let's go, Bigelow!
+
+710
+00:58:08,320 --> 00:58:10,320
+Look at him! He can't take it.
+
+711
+00:58:11,070 --> 00:58:12,740
+Soft in the belly.
+
+712
+00:58:14,910 --> 00:58:17,540
+You do that again and I'll kick your face in.
+
+713
+00:58:18,000 --> 00:58:21,250
+- Lay off, Chester, cut it out.
+- Shut up! Who asked you?
+
+714
+00:58:24,000 --> 00:58:26,670
+Better let him answer it,
+the clerk might know he's in.
+
+715
+00:58:26,760 --> 00:58:28,510
+Go ahead, Bigelow.
+
+716
+00:58:34,350 --> 00:58:35,720
+- Hello?
+- Frank!
+
+717
+00:58:35,810 --> 00:58:38,640
+Frank, why did you hang up on me?
+I've been trying to get you for hours.
+
+718
+00:58:39,350 --> 00:58:41,600
+I'm sorry, Paula, I was in a hurry.
+
+719
+00:58:41,690 --> 00:58:45,410
+Well don't be in such a hurry this time,
+you didn't give me a chance to finish.
+
+720
+00:58:45,860 --> 00:58:48,650
+- It's a dame.
+- McGowen was in hollering his head off
+
+721
+00:58:49,240 --> 00:58:53,530
+- because you didn't go over the books.
+- Tell McGowen to get another auditor.
+
+722
+00:58:53,950 --> 00:58:57,540
+Sure, I'll just do that little thing, and
+lose the best-paying account we've got.
+
+723
+00:58:57,620 --> 00:58:59,450
+Do as I tell you, Paula.
+
+724
+00:59:00,410 --> 00:59:02,420
+Frank, are you drunk?
+
+725
+00:59:03,130 --> 00:59:05,710
+Paula, how much have we got in the bank?
+
+726
+00:59:05,790 --> 00:59:08,590
+About $2200.
+
+727
+00:59:09,090 --> 00:59:10,670
+Draw it out tomorrow.
+
+728
+00:59:11,300 --> 00:59:15,220
+Sure! Then what do we do, skip town
+without paying our bills?
+
+729
+00:59:15,800 --> 00:59:18,680
+Forget the bills. You know that coat you
+always wanted?
+
+730
+00:59:18,770 --> 00:59:20,180
+Buy it.
+
+731
+00:59:21,270 --> 00:59:24,190
+You are drunk. You know, if I didn't have
+such a good character
+
+732
+00:59:24,270 --> 00:59:28,360
+I'd be tempted to take advantage of your
+intoxicated state, Mr. Bigelow.
+
+733
+00:59:28,440 --> 00:59:29,990
+I'm not drunk, Paula.
+
+734
+00:59:30,070 --> 00:59:33,280
+Well don't tell me that one day away from
+me can affect you this way!
+
+735
+00:59:33,820 --> 00:59:35,240
+Cut it short.
+
+736
+00:59:36,740 --> 00:59:38,200
+- Paula.
+- Yes?
+
+737
+00:59:40,620 --> 00:59:41,960
+I'm sorry...
+
+738
+00:59:42,750 --> 00:59:44,210
+I left you.
+
+739
+00:59:44,880 --> 00:59:47,000
+I never realised how much I love you,
+
+740
+00:59:47,750 --> 00:59:49,460
+but I know it now.
+
+741
+00:59:50,510 --> 00:59:52,050
+Oh Frank, Frank darling,
+
+742
+00:59:52,580 --> 00:59:56,050
+I love you too, so very much.
+
+743
+00:59:56,220 --> 00:59:58,310
+Please come home,
+
+744
+00:59:58,640 --> 01:00:00,640
+I miss you terribly.
+
+745
+01:00:01,770 --> 01:00:03,690
+I said cut it short!
+
+746
+01:00:05,310 --> 01:00:07,310
+I'd just love to let you have it, Bigelow.
+
+747
+01:00:07,400 --> 01:00:10,110
+Let's go, Chester.
+This guy's kept us waiting long enough now.
+
+748
+01:00:10,190 --> 01:00:12,240
+Walk in front, Bigelow.
+
+749
+01:00:13,650 --> 01:00:15,220
+And keep your mouth shut.
+
+750
+01:00:15,290 --> 01:00:19,250
+If you so much as look cross-eyed at anybody,
+I'll blow the back of your skull out.
+
+751
+01:00:36,120 --> 01:00:37,650
+This Bigelow is real cute,
+
+752
+01:00:38,000 --> 01:00:41,170
+He wanted to get tough with Chester.
+He don't know Chester.
+
+753
+01:00:41,310 --> 01:00:42,360
+Did you get the picture?
+
+754
+01:00:42,460 --> 01:00:45,130
+Don't I always get what Mr. Majak
+sends me after?
+
+755
+01:00:45,270 --> 01:00:46,550
+Majak?
+
+756
+01:00:48,480 --> 01:00:49,850
+That's right.
+
+757
+01:00:50,460 --> 01:00:53,580
+I'm the dealer who bought the
+iridium from Phillips.
+
+758
+01:00:53,950 --> 01:00:57,800
+I get it, you have Rakubian unload
+stolen stuff on Phillips,
+
+759
+01:00:57,820 --> 01:01:00,280
+to help Marla here,
+and then you buy it back from him.
+
+760
+01:01:00,400 --> 01:01:02,980
+Oh, you certainly made a sucker out
+of Phillips.
+
+761
+01:01:04,810 --> 01:01:09,520
+What is it, Mr. Bigelow?
+Exactly what is on your mind?
+
+762
+01:01:09,820 --> 01:01:12,840
+- I'm looking for Raymond Rakubian.
+- Why?
+
+763
+01:01:13,370 --> 01:01:17,120
+Why now Marla has told you everything else,
+I'm sure she must have told you that too.
+
+764
+01:01:17,750 --> 01:01:21,430
+You don't expect me to believe
+this, conversation?
+
+765
+01:01:22,000 --> 01:01:25,600
+So what is on your mind,
+I mean , underneath?
+
+766
+01:01:26,600 --> 01:01:29,990
+You forced your way into my affairs,
+and now I want to know why.
+
+767
+01:01:30,220 --> 01:01:33,200
+I just told you, I'm looking
+for Raymond Rakubian.
+
+768
+01:01:33,440 --> 01:01:36,550
+Don't get cute.
+I'm just itching to work you over.
+
+769
+01:01:37,230 --> 01:01:39,430
+Soft in the belly, can't take it.
+
+770
+01:01:40,980 --> 01:01:42,190
+See, what'd I tell you?
+
+771
+01:01:53,770 --> 01:01:56,860
+You can't do that to Chester.
+I'm going to blow your guts out!
+
+772
+01:01:56,870 --> 01:01:59,520
+Easy, lay off Chester, not now.
+
+773
+01:02:02,710 --> 01:02:06,280
+Look at him, he's so scared of Chester
+he'll talk now.
+
+774
+01:02:06,510 --> 01:02:08,340
+He's not afraid, Chester.
+
+775
+01:02:10,720 --> 01:02:13,600
+You can tell from a man's eyes
+when he is afraid.
+
+776
+01:02:14,560 --> 01:02:16,430
+Look at his eyes.
+
+777
+01:02:28,850 --> 01:02:35,200
+I'm telling you Majak, you'd better keep him
+away from me, or he'll have to use that gun.
+
+778
+01:02:36,290 --> 01:02:38,310
+Go away, Chester, please.
+
+779
+01:02:40,720 --> 01:02:43,420
+Do what I tell you, my boy, please.
+
+780
+01:02:44,340 --> 01:02:46,480
+And help Dave.
+
+781
+01:02:51,420 --> 01:02:53,410
+Ah, you're in pain.
+
+782
+01:02:56,050 --> 01:02:58,310
+He's an unfortunate boy.
+
+783
+01:02:58,720 --> 01:03:00,380
+He's psychopathic.
+
+784
+01:03:02,040 --> 01:03:04,230
+He's unhappy unless he gives pain.
+
+785
+01:03:04,840 --> 01:03:06,740
+He likes to see blood.
+
+786
+01:03:08,530 --> 01:03:11,220
+Come with me, Mr. Bigelow.
+
+787
+01:03:17,710 --> 01:03:19,640
+Raymond Rakubian was my nephew.
+
+788
+01:03:20,020 --> 01:03:24,050
+He could not possibly have tried to kill you.
+He's been dead, five months.
+
+789
+01:03:30,980 --> 01:03:33,110
+I'm afraid you have been sidetracked,
+
+790
+01:03:34,450 --> 01:03:37,370
+provided it is true that somebody
+made an attempt on your life?
+
+791
+01:03:37,450 --> 01:03:39,950
+Somebody made an attempt again today.
+
+792
+01:03:40,080 --> 01:03:42,830
+I had no reason to kill you, believe me.
+
+793
+01:03:42,910 --> 01:03:45,930
+What do you mean, you had no reason.
+I notarised a certain Bill of Sale.
+
+794
+01:03:46,020 --> 01:03:50,830
+You notarised a Bill of Sale for
+Reynolds, not Rakubian.
+
+795
+01:03:50,960 --> 01:03:54,580
+What I told you is true,
+I had no reason to kill you.
+
+796
+01:03:54,690 --> 01:03:57,060
+That's a closet Mr. Bigelow.
+
+797
+01:03:57,680 --> 01:03:59,680
+And under other circumstances
+
+798
+01:03:59,890 --> 01:04:01,680
+you could go home now,
+
+799
+01:04:02,350 --> 01:04:06,800
+but, now you present a problem.
+
+800
+01:04:06,850 --> 01:04:10,620
+You know too much, and I am in danger.
+Chester!
+
+801
+01:04:10,640 --> 01:04:12,300
+Suppose I were able to prove to you that I
+only want to find
+
+802
+01:04:12,340 --> 01:04:16,780
+the person who tried to kill me,
+and I won't cause you any trouble?
+
+803
+01:04:16,860 --> 01:04:19,780
+You know I can go to jail for
+ten years for this little business?
+
+804
+01:04:19,870 --> 01:04:21,290
+Ten years!
+
+805
+01:04:21,990 --> 01:04:26,140
+At my age that's my life,
+that means my entire life.
+
+806
+01:04:26,270 --> 01:04:30,510
+With my life I do not take chances,
+I am sorry, believe me.
+
+807
+01:04:30,640 --> 01:04:32,500
+You want Joe to go with you?
+
+808
+01:04:32,540 --> 01:04:34,760
+No, just Bigelow and me,
+
+809
+01:04:35,050 --> 01:04:38,140
+- and baby makes three.
+- But, Majak...
+
+810
+01:04:38,510 --> 01:04:42,230
+Goodbye, Mr. Bigelow, and forgive me.
+
+811
+01:04:42,670 --> 01:04:44,350
+Let's go, Bigelow.
+
+812
+01:04:45,640 --> 01:04:48,350
+I guess you won't be there,
+to "see me off".
+
+813
+01:05:05,570 --> 01:05:08,450
+You tried to make a boob out of me,
+in front of Majak.
+
+814
+01:05:08,530 --> 01:05:11,240
+Shouldn't have done that Bigelow,
+I don't like that.
+
+815
+01:05:14,040 --> 01:05:16,370
+I'm going to enjoy this, Bigelow.
+
+816
+01:05:17,500 --> 01:05:19,590
+I done jobs like this before.
+
+817
+01:05:20,300 --> 01:05:23,050
+I knocked off guys I could like.
+
+818
+01:05:23,540 --> 01:05:25,630
+But I don't like you, Bigelow.
+
+819
+01:05:26,050 --> 01:05:29,050
+I never liked that puss of yours
+from the minute I seen it.
+
+820
+01:05:30,970 --> 01:05:32,060
+Yeah.
+
+821
+01:05:33,100 --> 01:05:34,850
+I'm gonna enjoy this.
+
+822
+01:05:49,620 --> 01:05:54,190
+Ain't scared yet, are you Bigelow?
+But you'll be scared, good and scared.
+
+823
+01:05:55,160 --> 01:05:58,750
+I think I'll give it to you in the belly.
+You don't like it in the belly.
+
+824
+01:06:04,840 --> 01:06:06,680
+Go ahead, try it.
+
+825
+01:06:08,430 --> 01:06:10,300
+I'd just love you to try it.
+
+826
+01:06:10,510 --> 01:06:12,850
+Why don't you try it? Go ahead.
+
+827
+01:06:18,480 --> 01:06:20,770
+Didn't have the nerve, did you Bigelow?
+
+828
+01:06:20,860 --> 01:06:24,480
+Yeah, I think I'll give it to you
+right in the belly.
+
+829
+01:06:37,040 --> 01:06:39,420
+Takes longer when you get it in the belly,
+
+830
+01:06:39,500 --> 01:06:41,210
+s'nice and slow...
+
+831
+01:06:42,210 --> 01:06:44,460
+That's the way I want to see you go, Bigelow,
+
+832
+01:06:44,550 --> 01:06:46,130
+nice and slow.
+
+833
+01:08:50,390 --> 01:08:51,340
+Frank!
+
+834
+01:08:59,920 --> 01:09:03,220
+- Frank, Are you alright?
+- Yes, I'm alright, Paula, but what are you doing here?
+
+835
+01:09:03,230 --> 01:09:07,060
+- How did you get here?
+- Freddie Ross ran me down, I had to see you
+
+836
+01:09:07,750 --> 01:09:10,560
+- You shouldn't have come Paula.
+- What is it Frank?
+
+837
+01:09:10,570 --> 01:09:12,600
+You're in some kind of trouble, I know it.
+
+838
+01:09:12,780 --> 01:09:15,570
+Look at you, you're a sight!
+Your clothes look as if you slept in them.
+
+839
+01:09:16,230 --> 01:09:18,930
+Are you ill? You are, you're feverish.
+
+840
+01:09:18,950 --> 01:09:21,430
+I'm alright, Paula.
+And I'm not in any trouble, believe me.
+
+841
+01:09:21,440 --> 01:09:25,380
+Right after I spoke to you, I got a phone call
+from the San Francisco police,
+
+842
+01:09:25,500 --> 01:09:27,910
+- they asked if I knew where you were.
+- You didn't tell them anything, did you?
+
+843
+01:09:27,920 --> 01:09:31,230
+Of course not.
+It was the homicide detective that called.
+
+844
+01:09:33,120 --> 01:09:36,770
+What is it Frank? If you're in any
+kind of trouble you certainly can trust me.
+
+845
+01:09:36,850 --> 01:09:39,640
+Look I'm not in trouble with
+the police, believe me
+
+846
+01:09:39,730 --> 01:09:42,360
+but you can't stay here, you've got to go
+back to Banning right away.
+
+847
+01:09:42,460 --> 01:09:45,280
+No I won't go Frank, I'm staying here with you.
+
+848
+01:09:45,300 --> 01:09:47,160
+Paula, it's better that you go back,
+believe me.
+
+849
+01:09:47,170 --> 01:09:49,310
+Why? What's this all about?
+
+850
+01:09:49,650 --> 01:09:52,640
+What have you got to do with this Phillips
+and Reynolds?
+
+851
+01:09:54,640 --> 01:09:57,490
+- Phillips was murdered.
+- Murd...
+
+852
+01:09:58,070 --> 01:10:00,070
+What could that have to do with you?
+
+853
+01:10:00,080 --> 01:10:03,080
+All you did was notarise a paper,
+you've notarised hundreds of papers
+
+854
+01:10:03,080 --> 01:10:07,980
+I know, all I did was notarise a paper,
+one little paper out of hundreds!
+
+855
+01:10:08,330 --> 01:10:11,380
+Frank, you frighten me. You don't
+even act like yourself.
+
+856
+01:10:11,550 --> 01:10:14,020
+I know that you're in trouble,
+that something is wrong,
+
+857
+01:10:14,030 --> 01:10:17,410
+that you're in serious trouble.
+You frighten me, Frank!
+
+858
+01:10:17,710 --> 01:10:20,150
+Oh, don't be frightened, Paula.
+
+859
+01:10:20,410 --> 01:10:23,200
+Don't ever be frightened of anything
+again, will you promise me that?
+
+860
+01:10:23,260 --> 01:10:26,600
+I love you so much darling,
+more than you seem able to understand.
+
+861
+01:10:27,490 --> 01:10:29,910
+I never really knew happiness until
+I loved you.
+
+862
+01:10:30,010 --> 01:10:33,000
+Sometimes when I was afraid that you weren't
+sure how you felt,
+
+863
+01:10:33,010 --> 01:10:37,720
+I tried to hold back, but I couldn't.
+Losing you would be losing everything,
+
+864
+01:10:37,800 --> 01:10:40,630
+- there would have been nothing left.
+- Don't, Paula, don't.
+
+865
+01:10:40,820 --> 01:10:41,870
+Now I'm afraid again.
+
+866
+01:10:41,910 --> 01:10:44,600
+Somehow I feel I'm going to lose you, but
+there's nothing I can do about it.
+
+867
+01:10:44,610 --> 01:10:47,230
+I feel so helpless.
+You're leaving me out of something.
+
+868
+01:10:47,530 --> 01:10:51,600
+Tell me Frank, what is it? Give me a chance
+to fight back, just give me a chance, please.
+
+869
+01:10:51,960 --> 01:10:55,150
+- You do love me?
+- Oh yes, Paula, I love you.
+
+870
+01:10:55,380 --> 01:10:57,250
+I never was more certain of
+anything in my life.
+
+871
+01:10:57,250 --> 01:11:01,070
+I wasn't sure before, I was a little blind
+I guess, but believe me I'm sure now.
+
+872
+01:11:01,080 --> 01:11:03,400
+- Can you understand that, Paula?
+- I understand.
+
+873
+01:11:03,610 --> 01:11:05,310
+A man can be like that, Paula,
+
+874
+01:11:05,920 --> 01:11:08,450
+something has to happen, a big thing
+or a little thing,
+
+875
+01:11:08,530 --> 01:11:12,520
+but it can make him realise how much someone
+means to him, how much he really loves,
+
+876
+01:11:12,640 --> 01:11:14,950
+And I love you, Paula,
+
+877
+01:11:15,160 --> 01:11:18,780
+more than I thought it possible, to love
+anyone in the world, I love you.
+
+878
+01:11:18,940 --> 01:11:21,150
+Then why won't you tell me about this
+trouble you're in?
+
+879
+01:11:21,190 --> 01:11:23,410
+Why won't you let me help you?
+
+880
+01:11:24,800 --> 01:11:27,640
+- You can't help me, Paula.
+- You don't want my help.
+
+881
+01:11:28,010 --> 01:11:30,420
+Paula, there's nothing you can do,
+will you believe me?
+
+882
+01:11:30,480 --> 01:11:32,700
+So will you please go home, please?
+
+883
+01:11:32,950 --> 01:11:34,980
+No, Frank, I won't go.
+
+884
+01:11:35,470 --> 01:11:38,560
+I know you're in trouble,
+I can't leave you like this.
+
+885
+01:11:40,370 --> 01:11:43,950
+Alright Paula, wait for me in the lobby of
+the hotel and I'll be back for you soon.
+
+886
+01:11:43,960 --> 01:11:46,920
+- You promise?
+- Yes Paula, I promise.
+
+887
+01:11:48,120 --> 01:11:49,570
+Is that a new outfit?
+
+888
+01:11:50,560 --> 01:11:53,330
+- Yes.
+- It's beautiful.
+
+889
+01:12:01,320 --> 01:12:04,970
+- You'll come back to me, won't you Frank?
+- Yes, Paula, I'll come back, I promise.
+
+890
+01:12:05,030 --> 01:12:07,560
+Please hurry, darling. I love you.
+
+891
+01:12:07,720 --> 01:12:09,370
+I love you, Paula.
+
+892
+01:12:15,030 --> 01:12:17,320
+Goodbye, Paula.
+
+893
+01:12:49,950 --> 01:12:51,730
+- Is Stanley here?
+- No.
+
+894
+01:12:51,970 --> 01:12:53,590
+You sure?
+
+895
+01:12:54,310 --> 01:12:55,650
+Alright, get in there.
+
+896
+01:12:56,750 --> 01:13:00,390
+Get Stanley on the phone, tell him to come
+over right away. Use any excuse you want.
+
+897
+01:13:01,010 --> 01:13:04,660
+- What are you going to do?
+- What was Stanley going to do when
+he used me for a clay pigeon today?
+
+898
+01:13:04,670 --> 01:13:08,000
+- I don't know what you're talking about.
+- Don't act innocent, I fell for that once.
+
+899
+01:13:08,010 --> 01:13:10,820
+I don't know what you mean, I told you
+everything you want to know this morning.
+
+900
+01:13:10,880 --> 01:13:15,160
+Yes, just enough so I got sidetracked and wouldn't
+know that Stanley was the one I was after.
+
+901
+01:13:15,520 --> 01:13:16,860
+Stanley?
+
+902
+01:13:17,460 --> 01:13:20,720
+- Oh no!
+- You've been together on this from the start.
+
+903
+01:13:20,880 --> 01:13:23,270
+Now come on, get on that phone and call him.
+
+904
+01:13:23,640 --> 01:13:25,240
+And don't let him know I'm here.
+
+905
+01:13:36,830 --> 01:13:38,650
+You've been sidetracked alright,
+
+906
+01:13:39,170 --> 01:13:41,600
+but it was the poor bereaved little widow
+who did it.
+
+907
+01:13:42,410 --> 01:13:44,530
+Miss. Foster found this letter this afternoon.
+
+908
+01:13:44,860 --> 01:13:46,600
+In my brother's desk at the office,
+
+909
+01:13:46,760 --> 01:13:48,560
+postmarked two years ago...
+
+910
+01:13:48,970 --> 01:13:53,100
+It isn't exactly the kind of letter that a
+married woman gets from a casual friend.
+
+911
+01:13:53,720 --> 01:13:56,100
+I'm sure my brother wasn't aware they were
+so well acquainted
+
+912
+01:13:56,100 --> 01:13:58,200
+when he hired Halliday.
+
+913
+01:14:00,080 --> 01:14:02,930
+- What's the matter with him?
+- He hasn't felt right since dinner.
+
+914
+01:14:03,080 --> 01:14:05,100
+- Where did he have dinner?
+- At Mrs. Phillips apartment.
+
+915
+01:14:05,160 --> 01:14:08,340
+Halliday was there too, and Stanley
+confronted them with that letter.
+
+916
+01:14:09,110 --> 01:14:11,440
+- Did you have anything to drink?
+- Yes, why?
+
+917
+01:14:11,480 --> 01:14:14,390
+- How long ago?
+- Half an hour ago, just before I came here.
+
+918
+01:14:14,400 --> 01:14:18,540
+Miss Foster, get on the phone and call the
+emergency immediately, get an ambulance here.
+
+919
+01:14:19,140 --> 01:14:21,350
+Tell them to prepare a stomach wash
+for luminous poisoning.
+
+920
+01:14:21,610 --> 01:14:23,510
+- Luminous poisoning?
+- Go on, do what I tell you.
+
+921
+01:14:23,550 --> 01:14:25,190
+You may still have a chance to save his life.
+
+922
+01:14:25,400 --> 01:14:26,500
+Go on!
+
+923
+01:14:41,770 --> 01:14:43,900
+I found George Reynolds, Mrs. Phillips.
+
+924
+01:14:43,980 --> 01:14:45,990
+He's been dead for five months.
+
+925
+01:14:46,070 --> 01:14:50,030
+- Then he didn't steal the Bill of Sale.
+- No, he didn't, but you could have stolen it.
+
+926
+01:14:50,850 --> 01:14:52,210
+How dare you?
+
+927
+01:14:52,330 --> 01:14:54,410
+You knew who I was when I came here today,
+
+928
+01:14:55,120 --> 01:14:57,210
+but you were surprised to see me alive,
+weren't you?
+
+929
+01:14:57,290 --> 01:14:59,580
+But I'm not alive, Mrs. Phillips,
+
+930
+01:14:59,750 --> 01:15:02,800
+sure I can stand here and talk to you,
+I can breathe and I can move,
+
+931
+01:15:02,880 --> 01:15:06,570
+but I'm not alive, because I did take
+that poison,
+
+932
+01:15:06,800 --> 01:15:08,720
+and nothing can save me.
+
+933
+01:15:11,640 --> 01:15:13,890
+- What are you going to do?
+- If I kill you now, I have nothing to lose
+
+934
+01:15:13,970 --> 01:15:16,390
+No, listen to me, you've got to
+give me a chance!
+
+935
+01:15:16,480 --> 01:15:18,270
+But I didn't have a chance.
+
+936
+01:15:18,350 --> 01:15:20,350
+It was Halliday, believe me it was Halliday!
+
+937
+01:15:20,440 --> 01:15:22,560
+He made me steal the Bill of Sale,
+he planned everything.
+
+938
+01:15:22,650 --> 01:15:25,070
+What about this letter? Your husband knew
+about you and Halliday!
+
+939
+01:15:25,150 --> 01:15:27,490
+He found it only yesterday.
+He accused Halliday,
+
+940
+01:15:27,570 --> 01:15:29,950
+they fought, and Halliday pushed him
+over this balcony.
+
+941
+01:15:30,860 --> 01:15:32,450
+And why me?
+Why did he want to kill me?
+
+942
+01:15:32,530 --> 01:15:34,450
+Because you could have proved there was
+a Bill of Sale.
+
+943
+01:15:34,540 --> 01:15:36,540
+That my husband had no reason to
+commit suicide.
+
+944
+01:15:37,250 --> 01:15:39,670
+Halliday was desperate.
+After he killed my husband
+
+945
+01:15:39,750 --> 01:15:41,710
+he found out about the phone
+calls to you,
+
+946
+01:15:41,790 --> 01:15:44,590
+he thought you spoke to him, that
+you knew enough to involve him.
+
+947
+01:16:01,060 --> 01:16:03,340
+Where is Halliday?
+Where is he?
+
+948
+01:16:03,940 --> 01:16:05,480
+He's in the office.
+
+949
+01:16:06,360 --> 01:16:08,360
+This time you don't warn him.
+
+950
+01:17:11,130 --> 01:17:12,420
+Majak!
+
+951
+01:19:19,380 --> 01:19:21,050
+Come on, Mister, break it up.
+
+952
+01:19:23,260 --> 01:19:24,520
+Come on, come on!
+
+953
+01:19:27,390 --> 01:19:28,980
+Come on, move along.
+
+954
+01:19:31,480 --> 01:19:33,610
+Come on, break it up, let's get going.
+
+955
+01:21:32,320 --> 01:21:35,510
+All I did was notarise a Bill of Sale.
+
+956
+01:21:36,440 --> 01:21:39,140
+But that piece of paper could
+have proven that..
+
+957
+01:21:39,320 --> 01:21:42,070
+..Phillips didn't commit suicide.
+
+958
+01:21:42,360 --> 01:21:47,600
+He was murdered, and that's why
+Halliday poisoned me.
+
+959
+01:21:54,370 --> 01:21:56,710
+Would you...?
+
+960
+01:22:04,190 --> 01:22:06,410
+Pau... Paula!
+
+961
+01:22:18,950 --> 01:22:20,920
+Call the morgue.
+
+962
+01:22:25,120 --> 01:22:27,400
+Johnson, you go to the Allison hotel,
+find Paula Gibson,
+
+963
+01:22:27,400 --> 01:22:30,500
+don't tell her anything.
+I'll break it to her.
+
+964
+01:22:34,310 --> 01:22:36,900
+How shall I make out the report
+on him, Captain?
+
+965
+01:22:38,430 --> 01:22:42,280
+Better make it "Dead on Arrival".
+
