@@ -19,7 +19,6 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@stefanbohacek" />
     <meta name="twitter:domain" content="https://stefanbohacek.com/" />
-
     <!-- TODO: Favicons -->
     <!-- <link rel="apple-touch-icon" href="/docs/5.3/assets/img/favicons/apple-touch-icon.png" sizes="180x180">
         <link rel="icon" href="/docs/5.3/assets/img/favicons/favicon-32x32.png" sizes="32x32" type="image/png">
@@ -28,9 +27,29 @@
         <link rel="mask-icon" href="/docs/5.3/assets/img/favicons/safari-pinned-tab.svg" color="#712cf9">
         <link rel="icon" href="/docs/5.3/assets/img/favicons/favicon.ico">
         <meta name="theme-color" content="#712cf9"> -->
-        <link href="libs/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="libs/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body data-bs-theme="dark" class="d-flex flex-column h-100 overflow-y-scroll">
+    <script>
+        const toggleDarkMode = (enabled) => {
+            if (enabled){
+                document.body.setAttribute('data-bs-theme', 'dark');
+            } else {
+                document.body.setAttribute('data-bs-theme', 'light');
+            }
+        }
+
+        const enableDarkMode = () => {
+            if (window.matchMedia) {
+                toggleDarkMode(window.matchMedia('(prefers-color-scheme: dark)').matches);
+            }
+
+            window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', event => {
+                toggleDarkMode(window.matchMedia('(prefers-color-scheme: dark)').matches);
+            });
+        }
+        enableDarkMode();
+    </script>
     <main class="flex-shrink-0">
         <div class="container">
           {{{body}}}

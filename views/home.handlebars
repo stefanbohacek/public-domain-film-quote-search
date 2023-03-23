@@ -1,11 +1,10 @@
 <h1 class="mt-5">
     Public Domain Film Quote Search
 </h1>
-<p class="lead">
-    Search quotes from public domain movies. 
-    <a target="_blank" href="mailto:stefan@stefanbohacek.com?subject=Public%20Domain%20Film%20Quote%20Search&body=Hi%20Stefan%2C%0A%0AHere's%20a%20movie%20you%20should%20add%20to%20your%20database%3A%0A%0A-%20TITLE%0A-%20ARCHIVE.ORG%20LINK%0A-%20OPENSUBTITLES.ORG%20LINK">Suggest a movie</a>
-    |
+<p id="intro-text" class="lead d-none">
     <a href="/films">See full list</a>
+    |
+    <a target="_blank" href="mailto:stefan@stefanbohacek.com?subject=Public%20Domain%20Film%20Quote%20Search&body=Hi%20Stefan%2C%0A%0AHere's%20a%20movie%20you%20should%20add%20to%20your%20database%3A%0A%0A-%20TITLE%0A-%20ARCHIVE.ORG%20LINK%0A-%20OPENSUBTITLES.ORG%20LINK">Suggest a movie</a>
 </p>
 <p class="text-muted mb-4">
 
@@ -20,4 +19,25 @@
     </div>
 </form>
 <div id="results" class="container mt-5 mb-4 g-0">
+    <div class="row">
+        <div class="col-12 col-sm-4 p-5">
+            <img class="w-100" src="/images/posters-collage.png">
+        </div>
+        <div class="col-12 col-sm-8 p-5">
+            <p class="lead">
+                Search quotes from a database of <span class="fw-bold">{{films.length}}</span> public domain movies.
+            </p>
+            <ul>
+                <li>
+                    <a href="/films">see full list of movies</a>
+                </li>
+                <li>
+                    <a target="_blank" href="mailto:stefan@stefanbohacek.com?subject=Public%20Domain%20Film%20Quote%20Search&body=Hi%20Stefan%2C%0A%0AHere's%20a%20movie%20you%20should%20add%20to%20your%20database%3A%0A%0A-%20TITLE%0A-%20ARCHIVE.ORG%20LINK%0A-%20OPENSUBTITLES.ORG%20LINK">suggest a movie</a>
+                </li>                    
+                <li>
+                    <a href="">learn more about this project</a>
+                </li>
+            </ul>
+        </div>
+    </div>
 </div>                

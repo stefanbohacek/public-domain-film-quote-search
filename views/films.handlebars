@@ -2,13 +2,9 @@
     Public Domain Film Quote Search
 </h1>
 <p class="lead">
-    Search quotes from public domain movies.
-    <a target="_blank" href="mailto:stefan@stefanbohacek.com?subject=Public%20Domain%20Film%20Quote%20Search&body=Hi%20Stefan%2C%0A%0AHere's%20a%20movie%20you%20should%20add%20to%20your%20database%3A%0A%0A-%20TITLE%0A-%20ARCHIVE.ORG%20LINK%0A-%20OPENSUBTITLES.ORG%20LINK">Suggest a movie</a>
-    |    
     <a href="..">Go back</a>
-</p>
-<p class="text-muted mb-4">
-
+    |
+    <a target="_blank" href="mailto:stefan@stefanbohacek.com?subject=Public%20Domain%20Film%20Quote%20Search&body=Hi%20Stefan%2C%0A%0AHere's%20a%20movie%20you%20should%20add%20to%20your%20database%3A%0A%0A-%20TITLE%0A-%20ARCHIVE.ORG%20LINK%0A-%20OPENSUBTITLES.ORG%20LINK">Suggest a movie</a>    
 </p>
 <div class="row">
   {{#each films}}
@@ -19,7 +15,5 @@
         <img class="movie-poster" loading="lazy" width="182" height="268" src="/images/thumbnails/{{this.id}}.jpg" alt="Movie poster for {{this.title}}">
     </a>
   </div>
-
   {{/each}}
-
 </div>

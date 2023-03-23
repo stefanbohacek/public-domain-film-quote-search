@@ -1,4 +1,7 @@
 const search = async (options, resultsContainer) => {
+    const introText = document.getElementById('intro-text');
+    introText.classList.remove('d-none');
+    
     resultsContainer.innerHTML = '';
     let results = [];
     try {

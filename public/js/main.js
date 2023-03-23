@@ -1,9 +1,9 @@
 import onReady from './onReady.js';
 import showSearchResults from './showSearchResults.js';
-import enableDarkMode from './darkMode.js';
+// import enableDarkMode from './darkMode.js';
 
 onReady(() => {
-    enableDarkMode();
+    // enableDarkMode();
     const searchForm = document.getElementById('search-form');
 
     if (searchForm){
