@@ -1,15 +1,19 @@
 import search from './search.js';
 
 const showSearchResults = (searchForm) => {
+    const placeholders = document.getElementById('placeholders');
     const resultsContainer = document.getElementById('results');
     const searchField = document.getElementById('query');
     const query = searchField.value.trim();
 
     if (query){
+        placeholders.classList.remove('d-none');
+
         search({
             query
         }, resultsContainer).then(results => {
             // console.log(results);
+            placeholders.classList.add('d-none');
             if (results && results.length){
                 let resultsHTML = '<div class="row">';
             
