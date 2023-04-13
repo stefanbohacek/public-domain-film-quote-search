@@ -35,7 +35,7 @@ const search = async (query) => {
         }
     });
 
-    return results;
+    return results.filter(film => film.info.subtitle_page);
 }
 
 router.get('/', async (req, res) => {
