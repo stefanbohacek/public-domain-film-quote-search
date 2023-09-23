@@ -8,7 +8,7 @@
 - `year`: The year when the film was released.
 - `id`: The `id` of the film follows the format `film-title-YEAR`.
 - `video_page`: Link to the movie on [archive.org](https://archive.org/) where it can be downloaded.
-- `subtitle_page`: Link to a page where the subtitles can be downloaded, typically on [opensubtitles.org](https://www.opensubtitles.org).
+- `subtitle_page`: Link to a page where the subtitles can be downloaded, typically on [opensubtitles.org](https://www.opensubtitles.org). (Be sure to update the *Sources* section below if you use a different website.)
 
 2. Download the subtitle file from the `subtitle_page`, save it in the format `film-title-YEAR-en.srt`, and move it to the `data/subtitles` folder.
 3. Add the movie poster (ideal size: 182px × 268px) to `public/images/thumbnails`. The file name should be in the format `film-title-YEAR.jpg`.
