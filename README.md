@@ -18,7 +18,7 @@ Here's a few links where you can find films in the public domain:
 - [List of films in the public domain in the United States](https://en.wikipedia.org/wiki/List_of_films_in_the_public_domain_in_the_United_States) on Wikipedia
 - [WikiFlix](https://commons.wikimedia.org/wiki/User:Spinster/WikiFlix), a prototype for browsing and watching full-length, public domain or Creative Commons-licensed films on Wikimedia Commons
 
-For comparison, here's the [full list of films added to PDFQS](https://public-domain-film-quote-search.stefanbohacek.dev/films).
+For comparison, here's the [full list of films added to PDFQS](https://public-domain-film-quote-search.stefanbohacek.com/films).
 
 ## Development
 
